@@ -1,0 +1,1465 @@
+Log uploaded on Thursday, April 15, 2021, 2:41:16 PM
+Loaded mods:
+Harmony(brrainz.harmony)[mv:1.0.4.0]: 0Harmony(2.0.2), HarmonyMod(1.0.4)
+Core(Ludeon.RimWorld): (no assemblies)
+Royalty(Ludeon.RimWorld.Royalty): (no assemblies)
+Vanilla Expanded Framework(OskarPotocki.VanillaFactionsExpanded.Core): CompOversizedWeapon(1.0.0), HeavyWeapons(1.0.0), KCSG(1.0.0), MVCF(1.0.0), RRO(1.0.0), VanillaStorytellersExpanded(1.0.0), VanillaWeaponsExpandedLaser(1.0.0), VFECore(av:1.1.7,fv:1.1.9), VWEMakeshift(1.0.0)
+Vanilla Factions Expanded - Mechanoids(OskarPotocki.VFE.Mechanoid): VFEM(1.0.0)
+SRTS Expanded(smashphil.neceros.srtsexpanded)[mv:1.4.6]: 0Harmony(av:2.0.2,fv:1.2.0.1), SRTS(1.0.0)
+RuntimeGC(user19990313.RuntimeGC): RuntimeGC(20.0.15.1)
+Doors Expanded (Dev)(jecrell.doorsexpanded)[mv:1.3.2.1]: DoorsExpanded(1.3.2.1)
+Injured Carry(Haecriver.InjuredCarry): InjuredCarry(1.0.0)
+Go the F*** to Sleep(CaptainMuscles.GoToSleep)[mv:1.0.0]: CM_Go_To_Sleep(1.0.0)
+Chill the F*** Out(CaptainMuscles.ChillOut)[mv:1.0.0]: CM_Chill_Out(1.0.0)
+Questionable Ethics Enhanced(kongmd.qee)[mv:1.4.2]: QuestionableEthicsEnhanced(av:1.0.0,fv:1.4.2)
+[SYR] Doormats(syrchalis.doormats): SyrDoorMats(1.0.0)
+RimCities - Citadel Update(Cabbage.RimCities): 0Harmony(av:2.0.2,fv:2.0.0.8), RimCities(1.0.0)
+Smarter Construction(dhultgren.smarterconstruction): SmarterConstruction(1.2.9)
+Smart Medicine(Uuugggg.SmartMedicine): SmartMedicine(1.0.0)
+Where is my weapon?(tammybee.whereismyweapon): 0Harmony(av:2.0.2,fv:1.1.0), WhereIsMyWeapon(1.0.0)
+EdB Prepare Carefully(EdB.PrepareCarefully)[mv:1.2.1]: 0Harmony(2.0.2), EdBPrepareCarefully(av:1.1.1,fv:1.2.1)
+VFE - Mechanoids : Unoffical Add-On(isorex.mechanoidsaddon): 0Harmony(av:2.0.2,fv:2.0.4), MechanoidAddon(1.0.0)
+Vanilla Animals Expanded — Tropical Swamp(VanillaExpanded.VAETS)[mv:1.0.1]: 0Harmony(av:2.0.2,fv:2.0.0.7), ModCheck(0.0.0), NocturnalAnimals(1.0.0)
+Vanilla Animals Expanded — Tundra(VanillaExpanded.VAET)[mv:1.0.3]: 0Harmony(av:2.0.2,fv:2.0.0.7), ModCheck(0.0.0)
+Vanilla Furniture Expanded(VanillaExpanded.VFECore)[mv:1.1.0]: 0Harmony(av:2.0.2,fv:2.0.0.7), AOMoreFurniture(1.0.0)
+Vanilla Textures Expanded(VanillaExpanded.VTEXE)[mv:1.0.0]: VanillaTexturesExpanded(1.0.1)
+Vanilla Animals Expanded — Arid Shrubland(VanillaExpanded.VAEAS)[mv:1.1.0]: 0Harmony(av:2.0.2,fv:2.0.0.7), VAEShrubland(1.0.0)
+Vanilla Animals Expanded — Cats and Dogs(VanillaExpanded.VAECD)[mv:1.0.1]: 0Harmony(av:2.0.2,fv:2.0.0.3), ModCheck(0.0.0)
+Vanilla Animals Expanded — Desert(VanillaExpanded.VAED)[mv:1.0.0]: (no assemblies)
+Vanilla Animals Expanded — Extreme Desert(VanillaExpanded.VAEED)[mv:1.0.0]: (no assemblies)
+Vanilla Animals Expanded — Boreal Forest(VanillaExpanded.VAEBF)[mv:1.0.0]: 0Harmony(av:2.0.2,fv:2.0.0.7), ModCheck(0.0.0)
+Vanilla Animals Expanded — Tropical Rainforest(VanillaExpanded.VAETR)[mv:1.0.2]: 0Harmony(av:2.0.2,fv:2.0.0.7), ModCheck(0.0.0), NocturnalAnimals(1.0.0)
+Vanilla Hair Expanded(VanillaExpanded.VHE)[mv:1.0.3]: 0Harmony(av:2.0.2,fv:2.0.0.7), VanillaHairExpanded(1.2.0)
+Vanilla Events Expanded(VanillaExpanded.VEE)[mv:1.1.0]: VEE(1.0.0)
+Vanilla Brewing Expanded(VanillaExpanded.VBrewE): VanillaBrewingExpanded(1.0.0)
+Vanilla Plants Expanded - Succulents(VanillaExpanded.VPlantsESucculents): (no assemblies)
+Vanilla Achievements Expanded(vanillaexpanded.achievements): AchievementsExpanded(1.0.8)
+Vanilla Brewing Expanded - Coffees and Teas(VanillaExpanded.VBrewECandT): (no assemblies)
+Vanilla Traits Expanded(VanillaExpanded.VanillaTraitsExpanded): 0Harmony(av:2.0.2,fv:2.0.4), VanillaTraitsExpanded(1.0.0)
+Vanilla Weapons Expanded - Coilguns(VanillaExpanded.VWEC): 0Harmony(av:2.0.2,fv:2.0.0.7), CompOversizedWeapon(av:1.0.0,fv:1.1.2.2)
+Vanilla Weapons Expanded(VanillaExpanded.VWE)[mv:1.0.5.0]: 0Harmony(av:2.0.2,fv:2.0.0.7), CompOversizedWeapon(av:1.0.0,fv:1.18.0), ExplosiveTrailsEffect(1.0.7140.31563), NoCamShakeExplosions(1.0.0), OPToxic(1.0.0), SmokingGun(1.0.0), Submunition(1.0.0)
+Vanilla Weapons Expanded - Heavy Weapons(VanillaExpanded.VWEHW): CompOversizedWeapon(av:1.0.0,fv:1.1.2.2)
+Vanilla Weapons Expanded - Grenades(VanillaExpanded.VWEG): (no assemblies)
+Vanilla Books Expanded(VanillaExpanded.VBooksE): VanillaBooksExpanded(1.0.0)
+Vanilla Factions Expanded - Insectoids(OskarPotocki.VFE.Insectoid): CompOversizedWeapon(av:1.0.0,fv:1.18.0), InsectoidBioengineering(1.0.0), VFEI(1.2.0)
+Vanilla Furniture Expanded - Props and Decor(VanillaExpanded.VFEPropsandDecor): (no assemblies)
+Vanilla Plants Expanded(VanillaExpanded.VPlantsE): VanillaPlantsExpanded(1.0.0)
+Vanilla Cooking Expanded - Stews(VanillaExpanded.VCookEStews): (no assemblies)
+Vanilla Cooking Expanded(VanillaExpanded.VCookE): AchievementsExpanded(av:1.0.8,fv:1.0.7), VanillaCookingExpanded(1.0.0)
+Vanilla Armour Expanded(VanillaExpanded.VARME)[mv:1.2.0]: 0Harmony(av:2.0.2,fv:2.0.0.7), AdvancedShieldBelts(1.0.0), Camouflage(1.0.0)
+Vanilla Furniture Expanded - Farming(VanillaExpanded.VFEFarming)[mv:1.0.1.0]: VFEF(1.0.0)
+Vanilla Furniture Expanded - Security(VanillaExpanded.VFESecurity)[mv:1.1.1.0]: ExplosiveTrailsEffect(1.0.7140.31563), NoCamShakeExplosions(1.0.0), VFESecurity(1.1.2.2)
+Cybernetic Organism and Neural Network(kikohi.cybernetic)[mv:2.0.0.0]: CONN(1.0.0)
+Vanilla Weapons Expanded - Quickdraw(VanillaExpanded.VWEQ)[mv:1.1.0]: 0Harmony(av:2.0.2,fv:2.0.0.1), CompOversizedWeapon(av:1.0.0,fv:1.18.0)
+Vanilla Furniture Expanded - Art(VanillaExpanded.VFEArt)[mv:1.0.3]: (no assemblies)
+Vanilla Furniture Expanded - Production(VanillaExpanded.VFEProduction)[mv:1.0.3.0]: 0Harmony(av:2.0.2,fv:2.0.0.7), VFEProduction(1.0.0)
+Vanilla Furniture Expanded - Spacer Module(VanillaExpanded.VFESpacer): MFSpacer(1.0.0)
+Vanilla Furniture Expanded - Power(VanillaExpanded.VFEPower): VanillaPowerExpanded(1.0.0)
+Replace Stuff(Uuugggg.ReplaceStuff): Replace_Stuff(1.0.0)
+MendAndRecycle(notfood.MendAndRecycle)[mv:1.0.1.0]: MendAndRecycle(0.0.0)
+Vanilla Weapons Expanded - Laser(VanillaExpanded.VWEL)[mv:1.1.0]: (no assemblies)
+Utility Columns(nephlite.orbitaltradecolumn): RimWorldColumns(1.0.0)
+Vanilla Apparel Expanded(VanillaExpanded.VAPPE)[mv:1.2.0]: (no assemblies)
+Vanilla Furniture Expanded - Medical Module(VanillaExpanded.VFEMedical)[mv:1.1.0]: 0Harmony(av:2.0.2,fv:2.0.0.7), AOMoreMedical(1.0.0)
+HugsLib(UnlimitedHugs.HugsLib)[ov:8.0.1]: 0Harmony(av:2.0.2,fv:1.2.0.1), HugsLib(av:1.0.0,fv:8.0.1)
+Dire Raids(pyrce.dire.raids)[ov:1.1.0]: DireRaids(1.2.0)
+Wall Light(Murmur.WallLight): WallLight(1.0.0)
+Devilstrand Hydroponics(SteelChicken.DevilstrandHydroponics): (no assemblies)
+Stabilize(Linkolas.Stabilize): Stabilize(1.17.0)
+[SRTS Expanded] Planes and Bombs(Asieruso23.SRTS.Planes): BigBadaBoom(1.0.0), BigBadaBoom(1.0.0)
+RimHeli(Fuji.SRTS.RimHeli)[mv:1.3]: (no assemblies)
+I3's Military Aircrafts (I3MA)(Inoshishi3.MilitaryAircrafts): OPToxic(1.0.0)
+Perfect Pathfinding(jp.perfectpathing): PerfectPathing(1.0.0)
+[LTO] Colony Groups(DerekBickley.LTOColonyGroupsFinal): 0Harmony(av:2.0.2,fv:2.0.4), TacticalGroups(av:1.0.0,fv:1.0.6)
+VFME - Caravan Packs!(VFME.CaravanPacks): (no assemblies)
+VFE - Mechanoids : Drones(seos.vfe.mechanoids.drones): (no assemblies)
+VFE - Mechanoids : Prison control droid(nowano.vfem.prisonControlDroid): (no assemblies)
+VFE - Mechanoids : Tab(seos.vfe.mechanoids.tab): VFEMT(1.0.0)
+Roads of the Rim (Continued)(Mlie.RoadsOfTheRim)[mv:1.0.4.0]: RoadsOfTheRim(2.1.7682.24755)
+Giddy-up! Core(roolo.giddyupcore)[ov:3.0.0]: 0MultiplayerAPI(av:0.2.0,fv:0.1.0), GiddyUpCore(av:0.0.0,fv:0.0.0)
+Giddy-up! Battle Mounts(roolo.giddyupbattlemounts)[ov:1.0.3]: DependencyChecker(1.0.0), 0MultiplayerAPI(av:0.2.0,fv:0.1.0), Battlemounts(av:1.2.0,fv:1.2.0)
+Giddy-up! Ride and Roll(roolo.giddyuprideandroll)[ov:1.2.1]: DependencyChecker(1.0.0), 0MultiplayerAPI(av:0.2.0,fv:0.1.0), GiddyUpRideAndRoll(av:0.0.0,fv:0.0.0)
+Search and Destroy(roolo.SearchAndDestroy): SearchAndDestroy(1.1.0)
+Almost There!(roolo.AlmostThere): AlmostThere(1.0.0)
+Giddy-up! Caravan(roolo.giddyupcaravan)[ov:2.0.3]: DependencyChecker(1.0.0), 0MultiplayerAPI(av:0.2.0,fv:0.1.0), GiddyUpCaravan(av:0.0.0,fv:0.0.0)
+Joint Battles(SalmonToastie.JointBattles): 0Harmony(av:2.0.2,fv:2.0.4), BattleQuests(1.0.0)
+Mortar Accuracy(hobtook.mortaraccuracy)[mv:1.3.2]: 0Harmony(av:2.0.2,fv:2.0.4), 0MultiplayerAPI(av:0.2.0,fv:0.1.0), MortarAccuracy(1.0.0), UnityEngine.CoreModule(0.0.0)
+Vanilla Social Interactions Expanded(VanillaExpanded.VanillaSocialInteractionsExpanded): 0Harmony(av:2.0.2,fv:2.0.4), VanillaSocialInteractionsExpanded(1.0.0)
+More Faction Interaction (Continued)(Mlie.MoreFactionInteraction)[mv:1.0.6.0]: MoreFactionInteraction(av:0.1.0.8,fv:1.0.10)
+Loading In Progress(smashphil.loadinginprogress)[mv:1.0.0]: 0Harmony(av:2.0.2,fv:2.0.0.8), DropPodsInProgress(1.0.0)
+
+Active Harmony patches:
+ActiveDropPod.PodOpen: PRE: SRTS.HarmonyTest_dp.Prefix
+Alert_CaravanIdle.GetExplanation: post: RoadsOfTheRim.Patch_Alert_CaravanIdle_GetExplanation.Postfix
+Alert_CaravanIdle.GetReport: post: RoadsOfTheRim.Patch_Alert_CaravanIdle_GetReport.Postfix
+Alert_LowMedicine.MedicineCount: post: SmartMedicine.StockUp.LowMedicineWarning.Postfix
+ArmorUtility.ApplyArmor: post: GiddyUpCore.Harmony.ArmorUtility_ApplyArmor.Postfix, GiddyUpCore.Harmony.ArmorUtility_ApplyArmor.Postfix TRANS: VFECore.Patch_ArmorUtility+ApplyArmor.Transpiler
+ArmorUtility.GetPostArmorDamage: PRE: VFECore.Patch_ArmorUtility+GetPostArmorDamage.Prefix
+AttackTargetFinder.BestAttackTarget: TRANS: VFESecurity.Patch_AttackTargetFinder+manual_BestAttackTarget.Transpiler
+AttackTargetFinder.BestShootTargetFromCurrentPosition: TRANS: VFESecurity.Patch_AttackTargetFinder+BestShootTargetFromCurrentPosition.Transpiler
+BackCompatibility.CheckSpawnBackCompatibleThingAfterLoading: PRE: [700]DoorsExpanded.HarmonyPatches.DoorExpandedCheckSpawnBackCompatibleThingAfterLoading
+BackCompatibility.GetBackCompatibleType: PRE: [700]DoorsExpanded.HarmonyPatches.DoorExpandedGetBackCompatibleType
+Bill.PawnAllowedToStartAnew: PRE: VanillaTraitsExpanded.PawnAllowedToStartAnew_Patch.Prefix
+BillStack.AddBill: post: QEthics.HarmonyPatches+AddBill_Patch.AddBillPostfix
+BillStack.Delete: post: QEthics.HarmonyPatches+DeleteBill_Patch.DeleteBillPostfix
+BillUtility.GetWorkgiver: PRE: QEthics.HarmonyPatches+GetWorkgiver_Patch.GetWorkgiver_Prefix
+Blueprint.DeSpawn: PRE: Replace_Stuff.PlaceBridges.CancelBlueprint.Prefix, Replace_Stuff.DestroyedRestore.BlueprintRemoval.Prefix
+Blueprint.Draw: PRE: DoorsExpanded.HarmonyPatches.DoorExpandedBlueprintDrawPrefix
+Blueprint.SpawnSetup: PRE: DoorsExpanded.HarmonyPatches.DoorExpandedBlueprintSpawnSetupPrefix
+Blueprint.TryReplaceWithSolidThing: TRANS: Replace_Stuff.OverMineable.BlueprintToFrameUnderRock.Transpiler
+Blueprint_Build.get_WorkTotal: post: Replace_Stuff.NewThing.NewThingDeconstructWork_Blueprint.Postfix
+BodyPartDef.GetMaxHealth: post: VFEI.HarmonyPatches.BodyPartDef_GetMaxHealth_PostFix, CONN.BodyPartDef_GetMaxHealthPatch.BodyPartDef_GetMaxHealth_PostFix
+Building.PreApplyDamage: post: VFESecurity.Patch_Building+PreApplyDamage.Postfix
+Building_Cooler.TickRare: TRANS: Replace_Stuff.CoolersOverWalls.WideVentLocationTemp.Transpiler
+Building_Door.CanPhysicallyPass: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorCanPhysicallyPassPrefix
+Building_Door.CheckFriendlyTouched: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorCheckFriendlyTouchedPrefix
+Building_Door.DoorOpen: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorDoorOpenPrefix
+Building_Door.DoorTryClose: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorDoorTryClosePrefix
+Building_Door.Notify_PawnApproaching: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorNotifyPawnApproachingPrefix
+Building_Door.StartManualCloseBy: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorStartManualCloseByPrefix
+Building_Door.StartManualOpenBy: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorStartManualOpenByPrefix
+Building_Door.Tick: PRE: [700]DoorsExpanded.HarmonyPatches.BuildingDoorTickPrefix
+Building_Door.get_BlockedOpenMomentary: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorBlockedOpenMomentaryPrefix post: GiddyUpCore.Harmony.Building_Door_get_BlockedOpenMomentary.Postfix
+Building_Door.get_FreePassage: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorFreePassagePrefix
+Building_Door.get_SlowsPawns: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorSlowsPawnsPrefix
+Building_Door.get_TicksTillFullyOpened: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorTicksTillFullyOpenedPrefix
+Building_Door.get_TicksToOpenNow: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorTicksToOpenNowPrefix
+Building_Door.get_WillCloseSoon: PRE: [800]DoorsExpanded.HarmonyPatches.InvisDoorWillCloseSoonPrefix
+Building_Trap.Spring: TRANS: VFESecurity.Patch_Building_Trap+Spring.Transpiler
+Building_TurretGun.DrawExtraSelectionOverlays: post: VFESecurity.Patch_Building_TurretGun+DrawExtraSelectionOverlays.Postfix
+Building_TurretGun.OrderAttack: post: VFESecurity.Patch_Building_TurretGun+OrderAttack.Postfix
+Building_TurretGun.TryStartShootSomething: PRE: Replace_Stuff.Replace.DisableTurret.Prefix, VFESecurity.Patch_Building_TurretGun+TryStartShootSomething.Prefix
+Building_WorkTable.UsableForBillsAfterFueling: post: Replace_Stuff.Replace.DisableWorkbench.Postfix
+CameraJumper.TryHideWorld: post: TacticalGroups.HarmonyPatches.EntriesDirty
+CameraJumper.TryJumpInternal: post: TacticalGroups.HarmonyPatches.EntriesDirty
+Caravan.GetGizmos: post: SRTS.StartUp.LaunchAndBombGizmosPassthrough, RoadsOfTheRim.Patch_Caravan_GetGizmos.Postfix, SearchAndDestroy.Harmony.Caravan_GetGizmos.Postfix
+Caravan.GetInspectString: post: RoadsOfTheRim.Patch_Caravan_GetInspectString.Postfix
+Caravan.Notify_PawnAdded: post: TacticalGroups.HarmonyPatches.EntriesDirty
+Caravan.Notify_PawnRemoved: post: TacticalGroups.HarmonyPatches.EntriesDirty
+Caravan.PostAdd: post: TacticalGroups.HarmonyPatches.EntriesDirty
+Caravan.PostRemove: post: TacticalGroups.HarmonyPatches.EntriesDirty
+Caravan.get_NightResting: post: SearchAndDestroy.Harmony.Caravan_get_NightResting.Postfix
+CaravanArrivalAction_OfferGifts.CanOfferGiftsTo: PRE: Cities.CaravanArrivalAction_OfferGifts_CanOfferGiftsTo.Prefix
+CaravanEnterMapUtility.Enter: PRE: TacticalGroups.HarmonyPatches.CaravanEnter TRANS: GiddyUpRideAndRoll.Harmony.CaravanEnterMapUtility_Enter.Transpiler
+CaravanEnterMapUtility.GetEnterCell: PRE: Cities.CaravanEnterMapUtility_GetEnterCell.Prefix
+CaravanExitMapUtility.ExitMapAndCreateCaravan: post: TacticalGroups.HarmonyPatches.ExitMapAndCreateCaravan, VanillaSocialInteractionsExpanded.ExitMapAndCreateCaravan_Patch.Postfix
+CaravanFormingUtility.AllSendablePawns: post: VFE.Mechanoids.HarmonyPatches.MachinesCannotJoinCaravans.Postfix
+CaravanTicksPerMoveUtility.GetTicksPerMove: PRE: GiddyUpCaravan.Harmony.CaravanTicksPerMoveUtility_GetTicksPerMove.Prefix post: VanillaTraitsExpanded.GetTicksPerMove_Patch.Postfix
+CaravanUIUtility.AddPawnsSections: post: RoadsOfTheRim.Patch_CaravanUIUtility_AddPawnsSections.Postfix
+CaravanUIUtility.CreateCaravanTransferableWidgets: post: RoadsOfTheRim.Patch_CaravanUIUtility_CreateCaravanTransferableWidgets.Postfix
+Caravan_PathFollower.CostToMove: post: GiddyUpCaravan.Harmony.Caravan_PathFollower_CostToMove.Postfix
+CastPositionFinder.CastPositionPreference: TRANS: VFEMech.AvoidGrid_Patch.Transpiler
+CastPositionFinder.TryFindCastPosition: TRANS: VFESecurity.Patch_CastPositionFinder+TryFindCastPosition.Transpiler
+CollectionsMassCalculator.CapacityLeftAfterTradeableTransfer: PRE: SRTS.StartUp.SRTSMassCapacityCaravan
+ColonistBar.CaravanMemberCaravanAt: PRE: TacticalGroups.HarmonyPatches.CaravanMemberCaravanAt
+ColonistBar.CaravanMembersCaravansInScreenRect: PRE: TacticalGroups.HarmonyPatches.CaravanMembersCaravansInScreenRect
+ColonistBar.ColonistBarOnGUI: PRE: TacticalGroups.HarmonyPatches.ColonistBarOnGUI
+ColonistBar.ColonistOrCorpseAt: PRE: TacticalGroups.HarmonyPatches.ColonistOrCorpseAt
+ColonistBar.GetColonistsInOrder: PRE: TacticalGroups.HarmonyPatches.GetColonistsInOrder
+ColonistBar.Highlight: PRE: TacticalGroups.HarmonyPatches.Highlight
+ColonistBar.MapColonistsOrCorpsesInScreenRect: PRE: TacticalGroups.HarmonyPatches.MapColonistsOrCorpsesInScreenRect
+ColonistBar.MarkColonistsDirty: post: TacticalGroups.HarmonyPatches.MarkColonistsDirty
+CompBreakdownable.CheckForBreakdown: TRANS: DoorsExpanded.HarmonyPatches.CompBreakdownableCheckForBreakdownTranspiler
+CompEquippable.GetVerbsCommands: post: VFECore.Patch_CompEquippable+GetVerbsCommands.Postfix
+CompForbiddable.CompGetGizmosExtra: PRE: Cities.CompForbiddable_CompGetGizmosExtra.Prefix
+CompForbiddable.set_Forbidden: TRANS: DoorsExpanded.HarmonyPatches.DoorExpandedSetForbiddenTranspiler
+CompGlower.PostSpawnSetup: PRE: VFEI.HarmonyPatches.PostSpawnSetup_PreFix
+CompGlower.ReceiveCompSignal: PRE: GasNetwork.CompGlower_ReceiveCompSignal.Prefix post: VFEI.HarmonyPatches.ReceiveCompSignal_PostFix
+CompGlower.get_ShouldBeLitNow: post: GasNetwork.CompGlower_ShouldBeLit.Postfix, VanillaPowerExpanded.VPE_CompGlower_ShouldBeLitNow_Patch.NotLitIfNoGas
+CompLaunchable.TryLaunch: TRANS: GasNetwork.CompLaunchable_TryLaunch.Transpiler
+CompLaunchable.get_FuelingPortSourceFuel: PRE: GasNetwork.CompLaunchable_FuelingPortSourceFuel.Prefix
+CompLaunchable.get_FuelingPortSourceHasAnyFuel: PRE: GasNetwork.CompLaunchable_FuelingPortSourceHasAnyFuel.Prefix
+CompPowerTrader.set_PowerOn: post: VFEMech.PowerOn_Patch.Postfix
+CompQuality.PostPostGeneratedForTrader: PRE: MoreFactionInteraction.HarmonyPatches.CompQuality_TradeQualityIncreaseDestructivePreFix
+CompRottable.get_Active: PRE: MechanoidAddon.Active_Patch.Prefix
+CompTransporter.CompGetGizmosExtra: post: SRTS.StartUp.NoLaunchGroupForSRTS, DropPodsInProgress.HarmonyPatches.BoardTransporterInProgress
+CompUseEffect_FinishRandomResearchProject.CanBeUsedBy: post: VanillaStorytellersExpanded.Patch_CompUseEffect_FinishRandomResearchProject+CanBeUsedBy.Postfix
+CompUseEffect_FinishRandomResearchProject.DoEffect: post: VanillaStorytellersExpanded.Patch_CompUseEffect_FinishRandomResearchProject+DoEffect.Postfix
+Corpse.ButcherProducts: PRE: VanillaSocialInteractionsExpanded.Patch_ButcherProducts.Prefix
+CoverUtility.BaseBlockChance: post: VFESecurity.Patch_CoverUtility+BaseBlockChance_Thing.Postfix TRANS: DoorsExpanded.HarmonyPatches.DoorExpandedBaseBlockChanceTranspiler
+CoverUtility.CalculateCoverGiverSet: post: VFESecurity.Patch_CoverUtility+CalculateCoverGiverSet.Postfix
+CoverUtility.CalculateOverallBlockChance: post: VFESecurity.Patch_CoverUtility+CalculateOverallBlockChance.Postfix
+DamageWorker.ExplosionAffectCell: PRE: VFESecurity.Patch_DamageWorker+ExplosionAffectCell.Prefix
+DamageWorker.ExplosionCellsToHit: post: BigBadaBoom.Patches.DamageWorker_ExplosionCellsToHit_Patch.Postfix
+DamageWorker_AddInjury.ApplyDamageToPart: PRE: VanillaStorytellersExpanded.Patch_ApplyDamageToPart.Prefix, VanillaTraitsExpanded.Patch_ApplyDamageToPart.Prefix
+DebugWindowsOpener.DevToolStarterOnGUI: TRANS: HugsLib.Patches.DevToolStarterOnGUI_Patch.ExtendButtonsWindow
+DebugWindowsOpener.DrawButtons: TRANS: HugsLib.Patches.DebugWindowsOpener_Patch.DrawAdditionalButtons
+DebugWindowsOpener.ToggleDebugActionsMenu: TRANS: MoreFactionInteraction.HarmonyPatches.DebugWindowsOpener_ToggleDebugActionsMenu_Patch
+Designator_Build.CanDesignateCell: PRE: Replace_Stuff.DesignatorContext.Prefix post: Replace_Stuff.DesignatorContext.Postfix
+Designator_Build.DrawMouseAttachments: TRANS: Replace_Stuff.PlaceBridges.DesignatorBuildCostCountsBridges.Transpiler
+Designator_Build.SelectedUpdate: post: GasNetwork.Designator_Build_SelectedUpdate.Postfix
+Designator_Build.get_Visible: post: Replace_Stuff.HideCoolerBuild.Postfix
+Designator_Dropdown..ctor: post: Replace_Stuff.CoolersOverWalls.DropdownInOrder.Postfix
+Designator_Install.CanDesignateCell: PRE: Replace_Stuff.BlueprintReplace.DesignatorInstall.Prefix post: Replace_Stuff.BlueprintReplace.DesignatorInstall.Postfix TRANS: Replace_Stuff.BlueprintReplace.DesignatorInstall.Transpiler
+Designator_Install.SelectedUpdate: post: GasNetwork.Designator_Install_SelectedUpdate.Postfix
+Designator_Place.<>c__DisplayClass12_0.<DoExtraGuiControls>b__0: TRANS: DoorsExpanded.HarmonyPatches.DoorExpandedDesignatorPlaceRotateAgainIfNeededTranspiler
+Designator_Place.HandleRotationShortcuts: TRANS: DoorsExpanded.HarmonyPatches.DoorExpandedDesignatorPlaceRotateAgainIfNeededTranspiler
+Designator_RemoveBridge.CanDesignateCell: post: RoadsOfTheRim.Patch_Designator_RemoveBridge_CanDesignateCell.Postfix
+Dialog_DebugActionsMenu..ctor: PRE: AchievementsExpanded.DebugActionsSetup.ClearCachedActions
+Dialog_DebugActionsMenu.GenerateCacheForMethod: PRE: AchievementsExpanded.DebugActionsSetup.GenerateCacheForVAEDebugActions
+Dialog_DebugSettingsMenu..ctor: TRANS: DoorsExpanded.DebugInspectorPatches.AddMoreDebugViewSettingsTranspiler
+Dialog_DebugSettingsMenu.DoListingItems: TRANS: DoorsExpanded.DebugInspectorPatches.AddMoreDebugViewSettingsTranspiler
+Dialog_LoadTransporters.AddItemsToTransferables: TRANS: SRTS.StartUp.AddItemsEntireMapNonHomeTranspiler
+Dialog_LoadTransporters.AddPawnsToTransferables: TRANS: SRTS.StartUp.CustomOptionsPawnsToTransportTranspiler
+Dialog_LoadTransporters.get_MassCapacity: PRE: SRTS.StartUp.CustomSRTSMassCapacity
+Dialog_MedicalDefaults.DoWindowContents: post: SmartMedicine.SurgeryUnlimited.SurgeryUnlimitedSetting.Postfix
+Dialog_Options.DoWindowContents: TRANS: HugsLib.Patches.Dialog_Options_Patch.ReplaceModOptionsButton
+Dialog_Trade.get_MassUsage: TRANS: SRTS.StartUp.SRTSMassUsageCaravanTranspiler
+DropPodUtility.MakeDropPodAt: PRE: SRTS.HarmonyTest.Prefix
+DrugPolicy.ExposeData: PRE: VFECore.Patch_DrugPolicy+ExposeData.Prefix
+EdificeGrid.Register: PRE: [700]DoorsExpanded.HarmonyPatches.DoorExpandedEdificeGridRegisterPrefix
+EditWindow_DebugInspector.CurrentDebugString: TRANS: DoorsExpanded.DebugInspectorPatches.EditWindowDebugInspectorTranspiler
+EditWindow_Log.DoMessagesListing: PRE: HugsLib.Patches.EditWindow_Log_Patch.ExtraLogWindowButtons
+ExpandableWorldObjectsUtility.ExpandableWorldObjectsOnGUI: TRANS: SRTS.StartUp.ExpandableIconDetourSRTSTranspiler
+Faction.Notify_RelationKindChanged: post: MoreFactionInteraction.HarmonyPatches.Notify_RelationKindChanged
+Faction.TryAffectGoodwillWith: PRE: VanillaTraitsExpanded.TryAffectGoodwillWith_Patch.Prefix
+Faction.TryMakeInitialRelationsWith: PRE: VFEI.HarmonyPatches.Faction_TryMakeInitialRelationsWith_Prefix
+Faction.get_ShouldHaveLeader: post: VFEI.PatchIsMechanoid.PostFix
+FactionDialogMaker.FactionDialogFor: post: RoadsOfTheRim.Patch_FactionDialogMaker_FactionDialogFor.Postfix
+FactionGenerator.GenerateFactionsIntoWorld: TRANS: VanillaStorytellersExpanded.Patch_FactionGenerator+GenerateFactionsIntoWorld.Transpiler
+FeedPatientUtility.ShouldBeFed: TRANS: SmartMedicine.ShouldBeFed_Patch.Transpiler
+FertilityGrid.CalculateFertilityAt: post: VEE.FertilityGrid_Patch.Postfix
+FloatMenuMakerMap.AddDraftedOrders: PRE: VFE.Mechanoids.HarmonyPatches.AddDraftedOrders_Patch.Prefix post: BattleMounts.Harmony.FloatMenuMakerMap_AddDraftedOrders.Postfix
+FloatMenuMakerMap.AddHumanlikeOrders: post: CM_Go_To_Sleep.FloatMenuMakerMap_Patches+FloatMenuMakerMap_AddHumanlikeOrders.Postfix, CM_Chill_Out.FloatMenuMakerMap_Patches+FloatMenuMakerMap_AddHumanlikeOrders.Postfix, HeavyWeapons.Patch_FloatMenuMakerMap+AddHumanlikeOrders_Fix.Postfix, VFECore.Patch_FloatMenuMakerMap+AddHumanlikeOrders_Fix.Postfix, InjuredCarry.Patches+FloatMenuMakerCarryAdder.AddFloatMenuOption, Stabilize.Patches+FloatMenuMakerCarryAdder.AddHumanlikeOrdersPostfix
+FloatMenuMakerMap.AddJobGiverWorkOrders_NewTmp: TRANS: DoorsExpanded.HarmonyPatches.DoorRemoteAddJobGiverWorkOrdersTranspiler
+FloatMenuMakerMap.CanTakeOrder: post: VFE.Mechanoids.HarmonyPatches.MechanoidsObeyOrders.Postfix
+FloatMenuMakerMap.ChoicesAtFor: post: GiddyUpRideAndRoll.Harmony.FloatMenuMakerMap_ChoicesAtFor.Postfix
+FloodFillerFog.<>c__DisplayClass3_0.<FloodUnfog>b__0: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorDefMakeFogTranspiler
+FogGrid.FloodUnfogAdjacent: PRE: Cities.FogGrid_FloodUnfogAdjacent.Prefix TRANS: DoorsExpanded.HarmonyPatches.InvisDoorDefMakeFogTranspiler
+FogGrid.UnfogWorker: post: Replace_Stuff.OverMineable.UnFogFix.Postfix
+FoodUtility.<>c__DisplayClass12_0.<BestFoodSourceOnMap>b__0: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+FoodUtility.<>c__DisplayClass12_0.<BestFoodSourceOnMap>b__1: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+FoodUtility.<>c__DisplayClass12_0.<BestFoodSourceOnMap>b__2: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+FoodUtility.AddFoodPoisoningHediff: PRE: VanillaTraitsExpanded.AddFoodPoisoningHediff_Patch.Prefix
+FoodUtility.BestFoodInInventory: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_BestFoodInInventory.Transpiler
+Frame.CompleteConstruction: PRE: Replace_Stuff.Virtualize_CompleteConstruction.Prefix, Replace_Stuff.NewThing.RememberWasNewThing.Prefix TRANS: Replace_Stuff.DestroyedRestore.ReviveBuilding.Transpiler
+Frame.Destroy: PRE: Replace_Stuff.PlaceBridges.CancelFrame.Prefix, Replace_Stuff.DestroyedRestore.FrameRemoval.Prefix
+Frame.FailConstruction: PRE: Replace_Stuff.Virtualize_FailConstruction.Prefix
+Frame.MaterialsNeeded: PRE: Replace_Stuff.Virtualize_MaterialsNeeded.Prefix
+Frame.get_WorkToBuild: PRE: Replace_Stuff.Virtualize_WorkToBuild.Prefix post: Replace_Stuff.NewThing.NewThingDeconstructWork.Postfix
+Game.AddMap: post: TacticalGroups.HarmonyPatches.EntriesDirty
+Game.DeinitAndRemoveMap: post: HugsLib.Patches.Game_DeinitAndRemoveMap_Patch.MapRemovalHook, TacticalGroups.HarmonyPatches.IsPlayingDirty_Postfix
+Game.FillComponents: PRE: HugsLib.Patches.Game_FillComponents_Patch.GameInitializationHook
+Game.FinalizeInit: post: HugsLib.Patches.Game_FinalizeInit_Patch.WorldLoadedHook
+Game.InitNewGame: post: EdB.PrepareCarefully.HarmonyPatches.ReplaceScenarioPatch.Postfix TRANS: VFECore.Patch_Game+InitNewGame.Transpiler
+Game.set_CurrentMap: post: TacticalGroups.HarmonyPatches.EntriesDirty
+GameComponentUtility.LoadedGame: post: VFECore.Patch_GameComponentUtility+LoadedGame.Postfix
+GatheringsUtility.ShouldPawnKeepGathering: PRE: VanillaTraitsExpanded.ShouldPawnKeepGathering_Patch.Prefix
+GenConstruct.BlocksConstruction: PRE: Replace_Stuff.PlaceBridges.HandleBlocksConstruction.Prefix, Replace_Stuff.Other.PawnBlockConstruction.Prefix post: Replace_Stuff.CoolerWallShare_Blocks.Postfix, Replace_Stuff.ReplaceFrameNoBlock.Postfix, Replace_Stuff.OverMineable.MineableBlocksConstruction.Postfix, Replace_Stuff.NewThing.NewThingBlocksConstruction.Postfix TRANS: GasNetwork.Patches.GenConstruct_BlocksConstruction.Transpiler, Replace_Stuff.Other.FramesDontBlock.Transpiler
+GenConstruct.CanBuildOnTerrain: post: RoadsOfTheRim.Patch_GenConstruct_CanBuildOnTerrain.Postfix TRANS: Replace_Stuff.PlaceBridges.CanPlaceBlueprint.Transpiler
+GenConstruct.CanPlaceBlueprintAt: post: Replace_Stuff.NormalBuildReplace.Postfix, RoadsOfTheRim.Patch_GenConstruct_CanPlaceBlueprintAt.Postfix TRANS: Replace_Stuff.NormalBuildReplace.Transpiler, Replace_Stuff.OverMineable.BlueprintOverFogged.Transpiler, Replace_Stuff.OverMineable.InteractionSpot.Transpiler
+GenConstruct.CanPlaceBlueprintOver: post: Replace_Stuff.CoolerWallShare_Blueprint.Postfix, Replace_Stuff.OverMineable.CanPlaceBlueprintOverMineable.Postfix, Replace_Stuff.NewThing.CanPlaceBlueprintOverOldThing.Postfix TRANS: GasNetwork.Patches.GenConstruct_CanPlaceBlueprintOver.Transpiler, Replace_Stuff.OverMineable.FramesAreEdificesInSomeCases.Transpiler
+GenConstruct.HandleBlockingThingJob: TRANS: Replace_Stuff.OverMineable.DontMineSmoothingRock.Transpiler
+GenConstruct.PlaceBlueprintForBuild: PRE: Replace_Stuff.Replace.InterceptBlueprint.Prefix, Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame.Prefix, Replace_Stuff.OverMineable.InterceptBlueprintOverMinable.Prefix
+GenConstruct.PlaceBlueprintForInstall: PRE: Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame_Install.Prefix
+GenConstruct.PlaceBlueprintForReinstall: PRE: Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame_Reinstall.Prefix
+GenDefDatabase.AllDefTypesWithDatabases: post: AchievementsExpanded.AssemblyHandler.DuplicateDefTypesPassthrough
+GenGrid.CanBeSeenOver: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorDefFillageTranspiler, DoorsExpanded.HarmonyPatches.DoorExpandedCanBeSeenOverTranspiler
+GenGrid.Impassable: TRANS: VFESecurity.Patch_GenGrid+Impassable.Transpiler
+GenGrid.Standable: TRANS: VFESecurity.Patch_GenGrid+Standable.Transpiler
+GenPath.ShouldNotEnterCell: post: Replace_Stuff.OverMineable.ShouldNotEnterCellPatch.Postfix
+GenRadial.NumCellsInRadius: TRANS: VFEM.HarmonyPatches.Explosion_Patch.Transpiler
+GenRecipe.MakeRecipeProducts: post: VanillaTraitsExpanded.MakeRecipeProducts_Patch.Postfix, VanillaSocialInteractionsExpanded.MakeRecipeProducts_Patch.Postfix
+GenRecipe.PostProcessProduct: post: VanillaBooksExpanded.Patch_PostProcessProduct.Postfix
+GenSpawn.Refund: post: Replace_Stuff.NewThing.RefundDeconstruct.Postfix TRANS: Replace_Stuff.NewThing.RefundDeconstruct.Transpiler
+GenSpawn.Spawn: PRE: Replace_Stuff.NewThing.TransferSettings.Prefix post: AchievementsExpanded.AchievementHarmony.ThingBuildingSpawned, AchievementsExpanded.AchievementHarmony.ThingBuildingSpawned, AchievementsExpanded.AchievementHarmony.ThingBuildingSpawned, Replace_Stuff.NewThing.TransferSettings.Postfix
+GenSpawn.SpawningWipes: PRE: [700]DoorsExpanded.HarmonyPatches.InvisDoorSpawningWipesPrefix, Replace_Stuff.PlaceBridges.DontWipeBridgeBlueprints.Prefix post: Replace_Stuff.CoolerWallShare_Wipes.Postfix, Replace_Stuff.CoolerWipesCooler.Postfix, Replace_Stuff.OverMineable.NoWipeFrame.Postfix, Replace_Stuff.BlueprintReplace.WipeBlueprints.Postfix TRANS: GasNetwork.Patches.GenSpawn_SpawningWipes.Transpiler
+GenSpawn.WipeExistingThings: PRE: [700]DoorsExpanded.HarmonyPatches.InvisDoorWipeExistingThingsPrefix
+GenStep_FindPlayerStartSpot.Generate: post: Cities.GenStep_FindPlayerStartSpot_Generate.Postfix
+GenStep_Settlement.ScatterAt: PRE: VFEI.HarmonyPatches.InsectoidSettlementGen_Prefix, KCSG.GenStepPatches.Prefix TRANS: VFECore.Patch_GenStep_Settlement+ScatterAt.Transpiler
+GenStep_Terrain.Generate: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorDefFillageTranspiler
+GenTemperature.EqualizeTemperaturesThroughBuilding: TRANS: DoorsExpanded.HarmonyPatches.DoorExpandedEqualizeTemperaturesThroughBuildingTranspiler
+GenTypes.GetTypeNameWithoutIgnoredNamespaces: PRE: [700]DoorsExpanded.HarmonyPatches.DoorExpandedGetTypeNameWithoutIgnoredNamespacesPrefix
+GhostDrawer.DrawGhostThing: TRANS: DoorsExpanded.HarmonyPatches.DoorExpandedDrawGhostThingTranspiler
+GhostDrawer.DrawGhostThing_NewTmp: PRE: Replace_Stuff.OverMineable.GhostOverFogChecker.Prefix
+GhostUtility.GhostGraphicFor: post: VanillaFurnitureExpanded.VanillaExpandedFramework_GhostUtility_GhostGraphicFor_Patch.DisplayBlueprintGraphic TRANS: Replace_Stuff.OverMineable.ShowGhostOverFog.Transpiler, DoorsExpanded.HarmonyPatches.DoorExpandedGhostGraphicForTranspiler
+Gizmo_EnergyShieldStatus.GizmoOnGUI: PRE: CONN.Gizmo_EnergyShieldStatus_GizmoOnGUI.Prefix
+GlobalControlsUtility.DoDate: post: GasNetwork.Patches.GlobalControlsUtility.Postfix
+GlowFlooder.AddFloodGlowFor: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorBlockLightTranspiler
+GridsUtility.Filled: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorDefFillageTranspiler
+HaulAIUtility.TryFindSpotToPlaceHaulableCloseTo: post: Replace_Stuff.OverMineable.TryFindSpotToPlaceHaulableCloseToPatch.Postfix
+HealthAIUtility.FindBestMedicine: PRE: SmartMedicine.FindBestMedicine.Prefix
+HealthCardUtility.DrawHediffRow: TRANS: SmartMedicine.HediffRowPriorityCare.Transpiler
+HealthCardUtility.DrawOverviewTab: TRANS: SmartMedicine.SurgeryUnlimited.SurgergyUnlimitedPawnSettings.Transpiler
+HealthCardUtility.EntryClicked: PRE: SmartMedicine.SuppressRightClickHediff.Prefix
+Hediff.CauseDeathNow: post: AchievementsExpanded.AchievementHarmony.HediffDeathEvent
+Hediff.PostRemoved: PRE: SmartMedicine.RemoveHediffHook.Prefix post: MVCF.Harmony.Trackers.PostRemoved_Postfix
+Hediff.TendableNow: PRE: SmartMedicine.PriorityCareTendableNow.Prefix
+Hediff.get_ShouldRemove: post: VanillaTraitsExpanded.ShouldRemove_Patch.Postfix
+Hediff.get_TendPriority: PRE: SmartMedicine.PriorityHediff.Prefix
+HistoryAutoRecorderWorker_ColonistMood.PullRecord: post: AchievementsExpanded.AchievementHarmony.AverageMoodColony
+ITab_Pawn_Character.get_IsVisible: post: VFE.Mechanoids.HarmonyPatches.NoBioForMachines.Postfix
+ITab_Pawn_Gear.DrawThingRow: TRANS: SmartMedicine.DrawThingRow_Patch.Transpiler
+ITab_Pawn_Gear.FillTab: TRANS: SmartMedicine.FillTab_Patch.Transpiler
+ITab_Pawn_Gear.InterfaceDrop: post: SmartMedicine.InterfaceDrop_Patch.Postfix
+ITab_Pawn_Gear.TryDrawOverallArmor: TRANS: VFECore.Patch_ITab_Pawn_Gear+TryDrawOverallArmor.Transpiler
+ITab_Pawn_Health..ctor: post: SmartMedicine.SurgeryUnlimited.MakeRoomForSetting.Postfix
+ImmunityRecord.ImmunityTick: post: AchievementsExpanded.AchievementHarmony.ImmunityTicking, VanillaSocialInteractionsExpanded.ImmunityTick_Patch.Postfix
+IncidentWorker.TryExecute: PRE: VanillaStorytellersExpanded.Patch_TryExecute.Prefix post: AchievementsExpanded.AchievementHarmony.IncidentTriggered, AchievementsExpanded.AchievementHarmony.IncidentTriggered
+IncidentWorker_Ambush.DoExecute: TRANS: Battlemounts.Harmony.IncidentWorker_Ambush_DoExecute.Transpiler
+IncidentWorker_Infestation.TryExecuteWorker: PRE: VFEI.HarmonyPatches.IncidentWorker_Infestation_Prefix
+IncidentWorker_Raid.TryExecuteWorker: PRE: VanillaStorytellersExpanded.Patch_TryExecuteWorker.Prefix TRANS: Battlemounts.Harmony.IncidentWorker_Raid_TryExecuteWorker.Transpiler
+IncidentWorker_RaidEnemy.TryResolveRaidFaction: PRE: VFEM.HarmonyPatches.Raid_Patches+RaidEnemyResolveFaction_Patch.Prefix post: VFEM.HarmonyPatches.Raid_Patches+RaidEnemyResolveFaction_Patch.Postfix
+IncidentWorker_TraderCaravanArrival.TryExecuteWorker: TRANS: GiddyUpCaravan.Harmony.IncidentWorker_TraderCaravanArrival_TryExecuteWorker.Transpiler
+IncidentWorker_TravelerGroup.TryExecuteWorker: TRANS: GiddyUpCaravan.Harmony.IncidentWorker_TravelerGroup_TryExecuteWorker.Transpiler
+IncidentWorker_VisitorGroup.TryConvertOnePawnToSmallTrader: PRE: GiddyUpCaravan.Harmony.IncidentWorker_VisitorGroup_TryConvertOnePawnToSmallTrader.Prefix
+IncidentWorker_VisitorGroup.TryExecuteWorker: TRANS: GiddyUpCaravan.Harmony.IncidentWorker_VisitorGroup_TryExecuteWorker.Transpiler
+IncidentWorker_WandererJoin.TryExecuteWorker: TRANS: VFECore.Patch_IncidentWorker_WandererJoin+TryExecuteWorker.Transpiler
+IndividualThoughtToAdd.Add: post: VanillaTraitsExpanded.Add_Patch.Postfix, VanillaSocialInteractionsExpanded.IndividualThoughtToAdd_Patch.Postfix
+InspirationHandler.EndInspiration: post: VanillaSocialInteractionsExpanded.EndInspiration_Patch.Postfix
+InspirationHandler.TryStartInspiration_NewTemp: post: VanillaSocialInteractionsExpanded.TryStartInspiration_NewTemp_Patch.Postfix
+InteractionWorker_Breakup.Interacted: post: VanillaSocialInteractionsExpanded.Interacted_Patch.Postfix
+InteractionWorker_Breakup.RandomSelectionWeight: post: VanillaTraitsExpanded.RandomSelectionWeight_Patch.Postfix
+InteractionWorker_DeepTalk.RandomSelectionWeight: post: VanillaSocialInteractionsExpanded.InteractionWorker_DeepTalk_RandomSelectionWeight_Patch.Postfix
+InteractionWorker_KindWords.RandomSelectionWeight: post: VanillaSocialInteractionsExpanded.InteractionWorker_KindWords_RandomSelectionWeight_Patch.Postfix
+InteractionWorker_RecruitAttempt.DoRecruit: PRE: VanillaSocialInteractionsExpanded.DoRecruit_Patch.Prefix post: VanillaSocialInteractionsExpanded.DoRecruit_Patch.Postfix
+InteractionWorker_RecruitAttempt.Interacted: TRANS: VanillaSocialInteractionsExpanded.InteractionWorker_RecruitAttempt_Interacted_Patch.Transpiler
+InteractionWorker_RomanceAttempt.RandomSelectionWeight: post: VanillaTraitsExpanded.InteractionWorker_RomanceAttempt_RandomSelectionWeight_Patch.Postfix, VanillaSocialInteractionsExpanded.InteractionWorker_RomanceAttempt_RandomSelectionWeight_Patch.Postfix
+InteractionWorker_RomanceAttempt.SuccessChance: post: VanillaSocialInteractionsExpanded.SuccessChance_Patch.Postfix
+JobDriver.Cleanup: PRE: BattleMounts.Harmony.Jobdriver_Cleanup+JobDriver_Cleanup.Prefix
+JobDriver.SetupToils: post: GiddyUpRideAndRoll.Harmony.JobDriver_SetupToils.Postfix
+JobDriver_BestowingCeremony.MakeNewToils: post: VanillaSocialInteractionsExpanded.JobDriver_BestowingCeremony_MakeNewToils.Postfix
+JobDriver_ConstructFinishFrame.<>c__DisplayClass4_0.<MakeNewToils>b__1: TRANS: SmarterConstruction.Patches.Patch_JobDriver_MakeNewToils.Transpiler
+JobDriver_ConstructFinishFrame.MakeNewToils: post: SmarterConstruction.Patches.Patch_PawnsGettingStuck.Postfix
+JobDriver_HaulCorpseToPublicPlace.MakeNewToils: post: VanillaSocialInteractionsExpanded.JobDriver_HaulCorpseToPublicPlace_MakeNewToils.Postfix
+JobDriver_Ingest.MakeNewToils: post: VanillaSocialInteractionsExpanded.JobDriver_Ingest_MakeNewToils.Postfix
+JobDriver_LayDown.MakeNewToils: PRE: SmartMedicine.CleanUpTempBeds.Prefix
+JobDriver_LayDown.TryMakePreToilReservations: PRE: VFE.Mechanoids.HarmonyPatches.MechanoidsDoNotReserveBeds.Prefix post: VFE.Mechanoids.HarmonyPatches.MechanoidsDoNotReserveBeds.Postfix
+JobDriver_Lovin.GenerateRandomMinTicksToNextLovin: post: VanillaTraitsExpanded.GenerateRandomMinTicksToNextLovin_Patch.Postfix
+JobDriver_Lovin.MakeNewToils: post: VanillaSocialInteractionsExpanded.JobDriver_Lovin_MakeNewToils.Postfix
+JobDriver_ManTurret.FindAmmoForTurret: PRE: VFESecurity.Patch_TryFindRandomShellDef.Prefix
+JobDriver_Mount.FinishAction: post: GiddyUpRideAndRoll.Harmony.JobDriver_Mount_FinishAction.Postfix
+JobDriver_Mount.TryMakePreToilReservations: post: GiddyUpRideAndRoll.Harmony.JobDriver_Mount_TryMakePreToilReservations.Postfix
+JobDriver_Mounted.FinishAction: post: GiddyUpRideAndRoll.Harmony.JobDriver_Mounted_FinishAction.Postfix
+JobDriver_Mounted.shouldCancelJob: post: GiddyUpRideAndRoll.Harmony.JobDriver_Mounted_ShouldCancelJob.Postfix
+JobDriver_Resurrect.MakeNewToils: post: VanillaSocialInteractionsExpanded.JobDriver_Resurrect_MakeNewToils.Postfix
+JobDriver_TakeToBed.MakeNewToils: post: VanillaSocialInteractionsExpanded.JobDriver_TakeToBed_MakeNewToils.Postfix
+JobDriver_TendPatient.<>c.<MakeNewToils>b__10_2: TRANS: SmartMedicine.PriorityCareJobFail.Transpiler
+JobDriver_TendPatient.<>c__DisplayClass10_0.<MakeNewToils>b__0: TRANS: SmartMedicine.PriorityCareJobFail.Transpiler
+JobDriver_TendPatient.<>c__DisplayClass10_0.<MakeNewToils>b__1: TRANS: SmartMedicine.PriorityCareJobFail.Transpiler
+JobDriver_TendPatient.<>c__DisplayClass10_0.<MakeNewToils>b__3: TRANS: SmartMedicine.PriorityCareJobFail.Transpiler
+JobDriver_TendPatient.<>c__DisplayClass10_0.<MakeNewToils>b__4: TRANS: SmartMedicine.PriorityCareJobFail.Transpiler
+JobDriver_TendPatient.Notify_Starting: PRE: SmartMedicine.TendPatient_Notify_Starting_Patch.Prefix
+JobDriver_ViewArt.WaitTickAction: post: VanillaTraitsExpanded.WaitTickAction_Patch.Postfix
+JobDriver_WatchBuilding.MakeNewToils: post: VanillaTraitsExpanded.MakeNewToils_Patch.Postfix
+JobGiver_AIDefendPawn.TryFindShootingPosition: TRANS: VFESecurity.Patch_JobGiver_AIDefendPawn+TryFindShootingPosition.Transpiler
+JobGiver_AIDefendPoint.TryFindShootingPosition: TRANS: VFESecurity.Patch_JobGiver_AIDefendPoint+TryFindShootingPosition.Transpiler
+JobGiver_AIFightEnemies.TryFindShootingPosition: TRANS: VFESecurity.Patch_JobGiver_AIFightEnemies+TryFindShootingPosition.Transpiler
+JobGiver_ConfigurableHostilityResponse.TryGetAttackNearbyEnemyJob: TRANS: VFESecurity.Patch_JobGiver_ConfigurableHostilityResponse+TryGetAttackNearbyEnemyJob.Transpiler
+JobGiver_DoLovin.TryGiveJob: PRE: VanillaTraitsExpanded.JobGiver_DoLovin_TryGiveJob_Patch.Prefix
+JobGiver_DropUnusedInventory.TryGiveJob: TRANS: SmartMedicine.StockUp.DontDropStockedDrugs.Transpiler
+JobGiver_EatInGatheringArea.TryGiveJob: post: VanillaSocialInteractionsExpanded.TryGiveJob_Patch.Postfix
+JobGiver_GetJoyInGatheringArea.TryGiveJobFromJoyGiverDefDirect: post: VanillaSocialInteractionsExpanded.TryGiveJobFromJoyGiverDefDirect_Patch.Postfix
+JobGiver_GetRest.GetPriority: TRANS: NocturnalAnimals.Patch_JobGiver_GetRest+Patch_GetPriority.Transpiler
+JobGiver_GetRest.TryGiveJob: PRE: VanillaTraitsExpanded.TryGiveJob_Patch.Prefix TRANS: Replace_Stuff.Replace.DisableBed.Transpiler
+JobGiver_PatientGoToBed.TryIssueJobPackage: TRANS: SmartMedicine.UseTempSleepSpot.Transpiler
+JobGiver_StandAndBeSociallyActive.TryGiveJob: post: VanillaSocialInteractionsExpanded.JobGiver_StandAndBeSociallyActive_TryGiveJob_Patch.Postfix
+JobGiver_Work.PawnCanUseWorkGiver: post: VFE.Mechanoids.HarmonyPatches.MechanoidsAreCapable.Postfix
+JobGiver_Work.TryIssueJobPackage: TRANS: SmarterConstruction.Patches.PatchMakeFinishFramesPrioritized.Transpiler
+JoyGiver.GetChance: post: VanillaTraitsExpanded.GetChance_Patch.Postfix
+JoyGiver_VisitGrave.TryGiveJob: PRE: VanillaTraitsExpanded.JoyGiver_VisitGrave_TryGiveJob_Patch.Prefix
+JoyUtility.JoyTickCheckEnd: PRE: VanillaSocialInteractionsExpanded.JoyUtility_JoyTickCheckEnd.Prefix
+LanguageDatabase.SelectLanguage: PRE: HugsLib.Patches.LanguageDatabase_Patch.ForceRestartAfterLangChange
+Lord.AddPawn: PRE: VanillaTraitsExpanded.AddPawn_Patch.Prefix post: VanillaStorytellersExpanded.Patch_AddPawn.Postfix, VanillaSocialInteractionsExpanded.Patch_AddPawn.Postfix
+Lord.Cleanup: PRE: VanillaStorytellersExpanded.Patch_Cleanup.Prefix, VanillaSocialInteractionsExpanded.Patch_Cleanup.Prefix
+LordJob_Joinable_MarriageCeremony.AddAttendedWeddingThoughts: post: VanillaSocialInteractionsExpanded.AddAttendedWeddingThoughts_Patch.Postfix
+LordToil_PrepareCaravan_Leave.UpdateAllDuties: PRE: GiddyUpCaravan.Harmony.Lordtoil_PrepareCaravan_Leave_UpdateAllDuties.Prefix
+MainButtonDef.get_Icon: post: VanillaTexturesExpanded.Patch_MainButtonDef+get_Icon.Postfix
+MainButtonWorker.DoButton: TRANS: VanillaTexturesExpanded.Patch_MainButtonWorker+DoButton.Transpiler
+MainButtonWorker_ToggleWorld.Activate: post: TacticalGroups.HarmonyPatches.EntriesDirty
+MainButtonsRoot.HandleLowPriorityShortcuts: TRANS: TacticalGroups.HarmonyPatches.HandleLowPriorityShortcuts_Transpiler
+MainTabWindow_Research.DrawLeftRect: TRANS: SRTS.StartUp.ResearchTranslatedCostTranspiler
+MainTabWindow_Research.DrawResearchPrereqs: post: SRTS.StartUp.DrawCustomResearchPrereqs
+MainTabWindow_Research.DrawRightRect: TRANS: VanillaStorytellersExpanded.Patch_MainTabWindow_Research+DrawRightRect.Transpiler
+MainTabsRoot.ToggleTab: post: TacticalGroups.HarmonyPatches.EntriesDirty
+Map.ConstructComponents: post: HugsLib.Patches.Map_ConstructComponents_Patch.MapComponentsInitHook
+Map.ExposeData: PRE: VFEM.MapExposeData_Patch.Prefix
+Map.FinalizeInit: post: HugsLib.Patches.Map_FinalizeInit_Patch.MapLoadedHook
+MapComponentUtility.MapGenerated: post: HugsLib.Patches.MapComponentUtility_MapGenerated_Patch.MapGeneratedHook
+MapGenerator.GenerateMap: PRE: Cities.MapGenerator_GenerateMap.Prefix
+MapPawns.get_AllPawns: post: KCSG.FixCaravanThreadingPatch.Postfix
+MassUtility.Capacity: post: GiddyUpCaravan.Harmony.MassUtility_Capacity.Postfix
+MechClusterGenerator.<>c.<GenerateClusterSketch_NewTemp>b__28_0: post: VFEM.HarmonyPatches.MechSpawn_Patch.Postfix
+MedicalRecipesUtility.IsClean: post: QEthics.HarmonyPatches+IsClean_Patch.IsCleanPostfix
+MedicalRecipesUtility.SpawnNaturalPartIfClean: post: QEthics.HarmonyPatches+SpawnNaturalPartIfClean_Patch.SpawnNaturalPartIfCleanPostfix
+Medicine.GetMedicineCountToFullyHeal: TRANS: SmartMedicine.GetMedicineCountToFullyHeal_Patch.Transpiler
+MemoryThoughtHandler.TryGainMemory: PRE: VanillaTraitsExpanded.TryGainMemory_Patch.Prefix post: VanillaSocialInteractionsExpanded.TryGainMemory_Patch.Postfix
+MentalBreakWorker_Catatonic.TryStart: post: VanillaSocialInteractionsExpanded.MentalBreakWorker_Catatonic_Patch.Postfix
+MentalBreakWorker_RunWild.TryStart: post: VanillaSocialInteractionsExpanded.MentalBreakWorker_RunWild_Patch.Postfix
+MentalBreaker.TryDoRandomMoodCausedMentalBreak: TRANS: AchievementsExpanded.AchievementHarmony.MentalBreakTriggered
+MentalState.RecoverFromState: PRE: VanillaSocialInteractionsExpanded.RecoverFromState_Patch.Prefix
+MentalStateHandler.TryStartMentalState: PRE: VanillaTraitsExpanded.Patch_TryStartMentalState.Prefix, VanillaSocialInteractionsExpanded.TryStartMentalState_Patch.Prefix post: VanillaSocialInteractionsExpanded.TryStartMentalState_Patch.Postfix
+MentalState_Jailbreaker.Notify_InducedPrisonerToEscape: post: VanillaSocialInteractionsExpanded.Notify_InducedPrisonerToEscape_Patch.Postfix
+MentalState_Slaughterer.Notify_SlaughteredAnimal: post: VanillaSocialInteractionsExpanded.Notify_SlaughteredAnimal_Patch.Postfix
+MentalState_SocialFighting.PostEnd: post: VanillaSocialInteractionsExpanded.PostEnd_Patch.Postfix
+MentalState_SocialFighting.get_IsOtherPawnSocialFightingWithMe: post: VanillaSocialInteractionsExpanded.IsOtherPawnSocialFightingWithMe_Patch.Postfix
+Mineable.DestroyMined: post: VanillaSocialInteractionsExpanded.DestroyMined_Patch.Postfix
+Mineable.TrySpawnYield: TRANS: VanillaSocialInteractionsExpanded.MineableYield_Patch.Transpiler
+ModsConfig.RestartFromChangedMods: PRE: HugsLib.Patches.ModsConfig_RestartFromChangedMods_Patch.QuickRestartInDevMode
+MouseoverReadout.MouseoverReadoutOnGUI: TRANS: DoorsExpanded.HarmonyPatches.MouseoverReadoutTranspiler, VEE.MouseoverReadout_Patch.Transpiler
+Need_Beauty.get_CurCategory: PRE: VanillaTraitsExpanded.CurCategory_Patch.Prefix
+Need_Joy.GainJoy: PRE: VanillaSocialInteractionsExpanded.GainJoy_Patch.Prefix
+Need_Joy.get_FallPerInterval: post: VanillaTraitsExpanded.FallPerInterval_Patch.Postfix
+NeedsCardUtility.DrawThoughtGroup: PRE: VanillaTraitsExpanded.DrawThoughtGroup_Patch.Prefix
+Object.Equals: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+Object.Finalize: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+Object.GetHashCode: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+Object.ToString: TRANS: VanillaCookingExpanded.HarmonyPatches.H_FoodUtility_TryFindBestFoodSourceFor.Transpiler
+OverlayDrawer.DrawAllOverlays: TRANS: GasNetwork.Patches.OverlayDrawer_DrawAllOverlays.Transpiler
+Page_ConfigureStartingPawns.DoWindowContents: post: EdB.PrepareCarefully.HarmonyPatches.PrepareCarefullyButtonPatch.Postfix
+Page_ConfigureStartingPawns.PreOpen: post: KCSG.PrepareCarefully_Fix.Postfix, EdB.PrepareCarefully.HarmonyPatches.ClearOriginalScenarioPatch.Postfix
+PathFinder.DetermineHeuristicStrength: post: PerfectPathing.HarmonyPatches+RegionHeuristicPatch.Postfix
+PathFinder.FindPath: TRANS: VFESecurity.Patch_PathFinder+FindPath.Transpiler
+PathFinder.IsDestroyable: post: DoorsExpanded.HarmonyPatches.InvisDoorIsDestroyablePostfix
+PathGrid.CalculatedCostAt: post: GasNetwork.HarmonyPatches.PathGrid.Postfix TRANS: [800]VFESecurity.Patch_PathGrid+CalculatedCostAt.Transpiler, DoorsExpanded.HarmonyPatches.InvisDoorCalculatedCostAtTranspiler
+Pawn.Destroy: PRE: VanillaTraitsExpanded.Destroy_Patch.Prefix, TacticalGroups.HarmonyPatches.Pawn_Destroy_Prefix, VanillaSocialInteractionsExpanded.Destroy_Patch.Prefix post: SmartMedicine.Destroy_Pawn_Patch.Postfix
+Pawn.DropAndForbidEverything: PRE: Cities.Pawn_DropAndForbidEverything.Prefix
+Pawn.ExitMap: post: VanillaTraitsExpanded.ExitMap_Patch.Postfix
+Pawn.GetGizmos: post: VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Pawn_GetGizmos_WeaponGizmoGetter_Patch.GetGizmos_PostFix, VFE.Mechanoids.HarmonyPatches.MechanoidsCanBeDrafted.Postfix, CONN.PatchHediffGizmos.Postfix, GiddyUpRideAndRoll.Harmony.Pawn_GetGizmos.Postfix
+Pawn.Kill: PRE: AchievementsExpanded.AchievementHarmony.KillPawn, AchievementsExpanded.AchievementHarmony.KillPawn, VanillaStorytellersExpanded.Patch_Kill.Prefix, VanillaSocialInteractionsExpanded.Pawn_Kill_Patch.Prefix post: VFE.Mechanoids.HarmonyPatches.MachinesDie.Postfix
+Pawn.SetFaction: PRE: VanillaSocialInteractionsExpanded.SetFaction_Patch.Prefix post: VFECore.Patch_Pawn+SetFaction.Postfix, TacticalGroups.HarmonyPatches.SetFaction_Postfix
+Pawn.SpawnSetup: post: VanillaTraitsExpanded.SpawnSetup_Patch.Postfix, TacticalGroups.HarmonyPatches.Pawn_SpawnSetup_Postfix, VanillaSocialInteractionsExpanded.SpawnSetup_Patch.Postfix
+Pawn.TicksPerMove: post: [200]GiddyUpCaravan.Harmony.Pawn_TicksPerMove.Postfix
+PawnApparelGenerator.GenerateStartingApparelFor: post: VFECore.Patch_PawnApparelGenerator+PossibleApparelSet+GenerateStartingApparelFor.Postfix
+PawnApparelGenerator.PossibleApparelSet.CoatButNoShirt: TRANS: VFECore.Patch_PawnApparelGenerator+PossibleApparelSet+manual_CoatButNoShirt.Transpiler
+PawnArrivalModeWorker_GigalocustSwarm.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnDiedOrDownedThoughtsUtility.TryGiveThoughts: post: VanillaTraitsExpanded.TryGiveThoughts_Patch.Postfix
+PawnGenerator.GenerateGearFor: post: VFECore.Patch_PawnGenerator+GenerateGearFor.Postfix
+PawnGenerator.GeneratePawn: post: Cities.PawnGenerator_GeneratePawn.Postfix
+PawnGenerator.TryGenerateNewPawnInternal: TRANS: VanillaHairExpanded.Patch_PawnGenerator+TryGenerateNewPawnInternal.Transpiler
+PawnGraphicSet.ResolveAllGraphics: post: VFECore.Patch_PawnGraphicSet+ResolveAllGraphics.Postfix, VanillaHairExpanded.Patch_PawnGraphicSet+ResolveAllGraphics.Postfix
+PawnGroupMaker.CanGenerateFrom: post: VFEM.HarmonyPatches.Raid_Patches+GetRandomPawnGroupMaker_Patch.Postfix
+PawnGroupMakerUtility.<>c__DisplayClass8_0.<TryGetRandomFactionForCombatPawnGroup>b__0: PRE: VFEM.HarmonyPatches.Raid_Patches+FactionForCombatGroup_Patch.Prefix
+PawnHairChooser.<>c__DisplayClass0_0.<RandomHairDefFor>b__0: PRE: VanillaHairExpanded.Patch_PawnHairChooser+manual_RandomHairDefFor.Prefix
+PawnObserver.ObserveSurroundingThings: post: VanillaTraitsExpanded.ObserveSurroundingThings_Patch.Postfix
+PawnRenderer.CarryWeaponOpenly: post: VFE.Mechanoids.HarmonyPatches.MobileTurretsShowTurrets.Postfix
+PawnRenderer.DrawEquipmentAiming: PRE: CompOversizedWeapon.HarmonyCompOversizedWeapon.DrawEquipmentAimingPreFix, VanillaWeaponsExpandedLaser.HarmonyPatches.CYA_PawnRenderer_Draw_EquipmentAiming_GunDrawing_Patch.Prefix, VFE.Mechanoids.HarmonyPatches.RenderTurretCentered.Prefix post: VFE.Mechanoids.HarmonyPatches.RenderTurretCentered.Postfix
+PawnRenderer.RenderPawnInternal: TRANS: VanillaHairExpanded.Patch_PawnRenderer+RenderPawnInternal.Transpiler
+PawnTable.PawnTableOnGUI: post: TacticalGroups.HarmonyPatches.PawnTableOnGUI
+PawnUIOverlay.DrawPawnGUIOverlay: PRE: Camouflage.VAE_PawnUIOverlay_Patch.GhillieException, GiddyUpCore.Harmony.PawnUIOverlay_DrawPawnGUIOverlay.Prefix
+PawnUtility.Mated: PRE: AnimalBehaviours.PawnUtility_Mated+VanillaExpandedFramework_PawnUtility_Mated_Patch.Prefix
+Pawn_AgeTracker.BirthdayBiological: TRANS: VanillaSocialInteractionsExpanded.BirthdayBiological_Patch.Transpiler
+Pawn_ApparelTracker.Notify_ApparelAdded: post: MVCF.Harmony.Trackers.ApparelAdded_Postfix
+Pawn_ApparelTracker.Notify_ApparelRemoved: post: MVCF.Harmony.Trackers.ApparelRemoved_Postfix
+Pawn_ApparelTracker.TryDrop: post: VFECore.Patch_Pawn_ApparelTracker+TryDrop_Patch.Postfix
+Pawn_ApparelTracker.Wear: post: VFECore.Patch_Pawn_ApparelTracker+Wear_Patch.Postfix
+Pawn_DraftController.GetGizmos: post: SearchAndDestroy.Harmony.Pawn_DraftController_GetGizmos.Postfix
+Pawn_DraftController.set_Drafted: PRE: VanillaTraitsExpanded.Drafted_Patch.Prefix post: SearchAndDestroy.Harmony.Pawn_DraftController_set_Drafted.Postfix
+Pawn_DrawTracker.get_DrawPos: post: GiddyUpCore.Harmony.Pawn_DrawTracker_get_DrawPos.Postfix
+Pawn_EquipmentTracker.DropAllEquipment: PRE: WhereIsMyWeapon.Patch_Pawn_EquipmentTracker_DropAllEquipment.Prefix
+Pawn_EquipmentTracker.Notify_EquipmentAdded: post: MVCF.Harmony.Trackers.EquipmentAdded_Postfix
+Pawn_EquipmentTracker.Notify_EquipmentRemoved: post: MVCF.Harmony.Trackers.EquipmentRemoved_Postfix
+Pawn_FilthTracker.TryDropFilth: PRE: VanillaTraitsExpanded.TryDropFilth_Patch.Prefix
+Pawn_FilthTracker.TryPickupFilth: PRE: VanillaTraitsExpanded.TryPickupFilth_Patch.Prefix
+Pawn_HealthTracker.AddHediff: post: MVCF.Harmony.Trackers.AddHediff_Postfix, AchievementsExpanded.AchievementHarmony.HediffAdded, AchievementsExpanded.AchievementHarmony.HediffAdded, AchievementsExpanded.AchievementHarmony.HediffAdded
+Pawn_HealthTracker.CheckForStateChange: post: VFECore.Patch_Pawn_HealthTracker+CheckForStateChange.Postfix
+Pawn_HealthTracker.HealthTick: post: WhereIsMyWeapon.Patch_Pawn_HealthTracker_HealthTick.Postfix
+Pawn_HealthTracker.MakeDowned: PRE: WhereIsMyWeapon.Patch_Pawn_HealthTracker_MakeDowned.Prefix, VanillaSocialInteractionsExpanded.MakeDowned_Patch.Prefix post: WhereIsMyWeapon.Patch_Pawn_HealthTracker_MakeDowned.Postfix, GiddyUpCore.Harmony.Pawn_HealthTracker_MakeDowned.Postfix
+Pawn_HealthTracker.MakeUndowned: post: WhereIsMyWeapon.Patch_Pawn_HealthTracker_MakeUndowned.Postfix
+Pawn_HealthTracker.Notify_Resurrected: post: TacticalGroups.HarmonyPatches.EntriesDirty
+Pawn_HealthTracker.PreApplyDamage: post: CONN.Pawn_HealthTracker_PreApplyDamagePatch.Pawn_HealthTracker_PreApplyDamagePostfix
+Pawn_HealthTracker.SetDead: post: GiddyUpCore.Harmony.Pawn_HealthTracker_SetDead.Postfix
+Pawn_InteractionsTracker.TryInteractRandomly: PRE: VanillaSocialInteractionsExpanded.TryInteractRandomly_Patch.Prefix
+Pawn_InteractionsTracker.TryInteractWith: post: VanillaSocialInteractionsExpanded.TryInteractWith_Patch.Postfix
+Pawn_InventoryTracker.DropAllNearPawn: PRE: WhereIsMyWeapon.Patch_Pawn_InventoryTracker_DropAllNearPawn.Prefix
+Pawn_JobTracker.CleanupCurrentJob: PRE: SmartMedicine.CleanupCurrentJob_Patch.Prefix
+Pawn_JobTracker.DetermineNextJob: post: GiddyUpCore.Harmony.Pawn_JobTracker_DetermineNextJob.Postfix, GiddyUpRideAndRoll.Harmony.Pawn_Jobtracker_DetermineNextJob.Postfix, SearchAndDestroy.Harmony.Pawn_JobTracker_DetermineNextJob.Postfix, GiddyUpCaravan.Harmony.Pawn_JobTracker_DetermineNextJob.Postfix
+Pawn_JobTracker.EndCurrentJob: PRE: VanillaTraitsExpanded.EndCurrentJobPatch.Prefix, TacticalGroups.HarmonyPatches.EndCurrentJobPrefix post: TacticalGroups.HarmonyPatches.EndCurrentJobPostfix
+Pawn_JobTracker.Notify_MasterDraftedOrUndrafted: PRE: GiddyUpCore.Harmony.Pawn_JobTracker_Notify_MasterDraftedOrUndrafted.Prefix
+Pawn_JobTracker.StartJob: PRE: VanillaTraitsExpanded.StartJob_Patch.Prefix, GiddyUpCore.Harmony.Pawn_JobTracker_StartJob.Prefix
+Pawn_JobTracker.TryTakeOrderedJob: PRE: VanillaTraitsExpanded.TryTakeOrderedJob_Patch.Prefix post: VanillaTraitsExpanded.TryTakeOrderedJob_Patch.Postfix
+Pawn_MeleeVerbs.TryMeleeAttack: post: VanillaTraitsExpanded.TryMeleeAttack_Patch.Postfix
+Pawn_NeedsTracker.ShouldHaveNeed: PRE: VFEMech.ShouldHaveNeed_Patch.Prefix
+Pawn_PathFollower.CostToMoveIntoCell: post: SyrDoorMats.CostToMoveIntoCellPatch.CostToMoveIntoCell_Postfix
+Pawn_PathFollower.SetupMoveIntoNextCell: post: SyrDoorMats.SetupMoveIntoNextCellPatch.SetupMoveIntoNextCell_Postfix
+Pawn_PathFollower.StartPath: PRE: Cities.Pawn_PathFollower_StartPath.Prefix
+Pawn_PlayerSettings.GetGizmos: PRE: GiddyUpCore.Harmony.Pawn_PlayerSettings_GetGizmos.Prefix
+Pawn_PlayerSettings.ResetMedicalCare: post: SmartMedicine.SurgeryUnlimited.SurgeryUnlimitedDefault.Postfix
+Pawn_RecordsTracker.AddTo: post: AchievementsExpanded.AchievementHarmony.RecordAddToEvent
+Pawn_RecordsTracker.Increment: post: AchievementsExpanded.AchievementHarmony.RecordEvent, AchievementsExpanded.AchievementHarmony.RecordEvent
+Pawn_RecordsTracker.RecordsTickUpdate: TRANS: AchievementsExpanded.AchievementHarmony.RecordTimeEvent
+Pawn_RelationsTracker.AddDirectRelation: PRE: VanillaSocialInteractionsExpanded.AddDirectRelation_Patch.Prefix
+Pawn_TraderTracker.ColonyThingsWillingToBuy: post: Cities.Pawn_TraderTracker_ColonyThingsWillingToBuy.Postfix
+PawnsArrivalModeWorker_Burrow.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_CenterDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_ClusterDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeDropGroups.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeWalkIn.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeWalkInGroups.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_MechShipArrival.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_Meteorite.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_RandomDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_Shuttle.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_Tunneling.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker, VanillaSocialInteractionsExpanded.RaidPatches.RaidGroupChecker
+PickUpAndHaul_Patch.Throwaway: post: VFEM.HarmonyPatches.PickUpAndHaul_Patch.Postfix
+PlaceWorker_Conduit.AllowsPlacing: TRANS: Replace_Stuff.OverMineable.FixConduitPlaceWorker.Transpiler
+PlaceWorker_Cooler.AllowsPlacing: PRE: Replace_Stuff.CoolersOverWalls.AllowBuildPlugged.Prefix
+PlaceWorker_Cooler.DrawGhost: TRANS: Replace_Stuff.CoolersOverWalls.WideVentLocationGhost.Transpiler
+PlaceWorker_PreventInteractionSpotOverlap.AllowsPlacing: TRANS: Replace_Stuff.NewThing.IgnoreInteractionSpotOverlap.Transpiler
+PlaceWorker_Vent.AllowsPlacing: PRE: Replace_Stuff.CoolersOverWalls.AllowBuildPlugged_Vent.Prefix
+Plant.PlantCollected: PRE: VanillaPlantsExpanded.VanillaCookingExpanded_Plant_PlantCollected_Patch.RemoveTilled post: AchievementsExpanded.Plant_PlantCollected_Patch.CheckPlantHarvested
+Plant.PostMapInit: post: VEE.Plant_PostMapInit_Patch.Postfix
+Plant.TickLong: post: VEE.Plant_TickLong_Patch.Postfix
+Plant.get_GrowthRate: post: VEE.Plant_GrowthRate_Patch.Postfix
+Plant.get_LeaflessNow: post: VEE.Plant_LeaflessNow_Patch.Postfix
+PlayDataLoader.DoPlayLoad: post: HugsLib.Patches.PlayDataLoader_Patch.InitModsHook
+PlaySettings.DoPlaySettingsGlobalControls: post: Replace_Stuff.OverMineable.PlaySettings_BlueprintOverRockToggle.AddButton
+PlaySettings.ExposeData: PRE: Replace_Stuff.OverMineable.PlaySettings_ExposeData.Prefix
+PowerConnectionMaker.BestTransmitterForConnector: post: VFEMech.BestTransmitterForConnector_Patch.Postfix
+PowerConnectionMaker.PotentialConnectorsForTransmitter: post: VFEMech.PotentialConnectorsForTransmitter_Patch.Postfix
+Prefs.set_DevMode: post: AchievementsExpanded.AchievementHarmony.DevModeToggled
+Projectile.CheckForFreeIntercept: TRANS: DoorsExpanded.HarmonyPatches.DoorExpandedProjectileCheckForFreeIntercept
+Projectile.ImpactSomething: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorDefFillageTranspiler
+Projectile.Launch: post: VFECore.Projectile_Launch_Patch.Postfix
+ProviderHair.GetHairs: post: VanillaHairExpanded.Patch_EdBPrepareCarefully_ProviderHair+manual_GetHairs.Postfix
+QualityUtility.GenerateQualityCreatedByPawn: PRE: VanillaTraitsExpanded.GenerateQualityCreatedByPawn_Patch.Prefix post: VanillaTraitsExpanded.GenerateQualityCreatedByPawn_Patch.Postfix TRANS: VanillaSocialInteractionsExpanded.GenerateQualityCreatedByPawn_Patch.Transpiler
+Quest.End: PRE: VanillaStorytellersExpanded.Patch_End.Prefix post: AchievementsExpanded.AchievementHarmony.QuestEnded
+QuestGen.AddSlateQuestTags: post: VanillaStorytellersExpanded.Patch_AddSlateQuestTags.Postfix
+QuestManager.Add: PRE: VanillaStorytellersExpanded.Add_Patch.Prefix post: VanillaStorytellersExpanded.Add_Patch.Postfix
+QuestManager.Notify_ThingsProduced: post: AchievementsExpanded.AchievementHarmony.ThingSpawned, AchievementsExpanded.QuestManager_Notify_ThingsProduced_Patch.CheckItemCraftedIngredients
+QuestNode_GetFaction.IsGoodFaction: PRE: VFEI.HarmonyPatches.QuestNode_GetFaction_IsGoodFaction_Prefix
+QuestNode_GetNearbySettlement.RandomNearbyTradeableSettlement: post: Cities.QuestNode_GetNearbySettlement_RandomNearbyTradeableSettlement.Postfix
+RCellFinder.TryFindRandomPawnEntryCell: PRE: Cities.RCellFinder_TryFindRandomPawnEntryCell.Prefix
+RaidStrategyWorker_Siege.MakeLordJob: PRE: VFECore.Patch_RaidStrategyWorker_Siege+MakeLordJob.Prefix
+Recipe_RemoveBodyPart.ApplyOnPawn: PRE: VanillaTraitsExpanded.ApplyOnPawn_Patch.Prefix, VanillaSocialInteractionsExpanded.Recipe_Patch.Prefix, VanillaSocialInteractionsExpanded.Recipe_Patch.Postfix post: VanillaTraitsExpanded.ApplyOnPawn_Patch.Postfix
+Recipe_Surgery.CheckSurgeryFail: PRE: VanillaSocialInteractionsExpanded.CheckSurgeryFail_Patch.Prefix post: VanillaSocialInteractionsExpanded.CheckSurgeryFail_Patch.Postfix
+Region.DangerFor: post: GasNetwork.Patches.Region.Postfix
+RegionAndRoomUpdater.ShouldBeInTheSameRoomGroup: post: DoorsExpanded.HarmonyPatches.DoorExpandedShouldBeInTheSameRoomGroupPostfix
+RelationsUtility.TryDevelopBondRelation: PRE: VanillaTraitsExpanded.TryDevelopBondRelation_Patch.Prefix post: AchievementsExpanded.AchievementHarmony.AnimalBondedEvent
+ReorderableWidget.ReorderableWidgetOnGUI_AfterWindowStack: post: TacticalGroups.HarmonyPatches.ReorderableWidgetOnGUI_AfterWindowStack
+ResearchManager.DebugSetAllProjectsFinished: post: SRTS.StartUp.ResearchFinishAllSRTS
+ResearchManager.FinishProject: post: AchievementsExpanded.AchievementHarmony.ResearchProjectFinished, VanillaSocialInteractionsExpanded.FinishProject_Patch.Postfix TRANS: SRTS.StartUp.ResearchFinishProjectTranspiler
+ResearchProjectDef.HasTag: post: VFECore.Patch_ResearchProjectDef+HasTag.Postfix
+ResearchProjectDef.get_CanStartNow: post: VanillaStorytellersExpanded.Patch_ResearchProjectDef+get_CanStartNow.Postfix
+ResearchProjectDef.get_CostApparent: PRE: SRTS.StartUp.ResearchCostApparent
+ResearchProjectDef.get_IsFinished: PRE: SRTS.StartUp.ResearchIsFinished
+ResearchProjectDef.get_PrerequisitesCompleted: post: SRTS.StartUp.CustomPrerequisitesCompleted
+ResearchProjectDef.get_ProgressPercent: PRE: SRTS.StartUp.ResearchProgressPercent
+ReservationManager.CanReserve: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.CanReserveStack: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.FirstRespectedReserver: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.IsReservedAndRespected: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.IsReservedByAnyoneOf: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.LogCouldNotReserveError: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.Release: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.Reserve: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.ReservedBy: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.ReservedBy: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReverseDesignatorDatabase.InitDesignators: post: VFESecurity.Patch_ReverseDesignatorDatabase+InitDesignators.Postfix
+RoadDefGenStep_Place.Place: post: RoadsOfTheRim.Patch_RoadDefGenStep_Place_Place.Postfix
+RoofCollapseCellsFinder.ConnectsToRoofHolder: post: MechanoidAddon.ConnectsToRoofHolder_Patch.Postfix
+RoofCollapseUtility.WithinRangeOfRoofHolder: post: MechanoidAddon.WithinRangeOfRoofHolder_Patch.Postfix
+Room.DebugString: post: DoorsExpanded.DebugInspectorPatches.RoomMoreDebugString
+Room.Notify_ContainedThingSpawnedOrDespawned: PRE: [700]DoorsExpanded.HarmonyPatches.InvisDoorRoomNotifyContainedThingSpawnedOrDespawnedPrefix, Cities.Room_Notify_ContainedThingSpawnedOrDespawned.Prefix
+Root.OnGUI: post: HugsLib.Patches.Root_OnGUI_Patch.OnGUIHookUnfiltered
+Root.Update: post: HugsLib.Patches.Root_Patch.UpdateHook
+Root_Play.SetupForQuickTestPlay: TRANS: HugsLib.Patches.RootPlay_TestPlay_Patch.InjectCustomQuickstartSettings
+SectionLayer_IndoorMask.HideRainPrimary: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorDefFillageTranspiler
+SectionLayer_LightingOverlay.Regenerate: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorBlockLightTranspiler
+SectionLayer_SunShadows.Regenerate: TRANS: [800]VFESecurity.Patch_SectionLayer_SunShadows+manual_Regenerate.Transpiler
+SelfDefenseUtility.ShouldFleeFrom: PRE: GiddyUpCore.Harmony.SelfDefenceUtility_ShouldFleeFrom.Prefix
+SettleInExistingMapUtility.Settle: post: TacticalGroups.HarmonyPatches.Settle
+SettlementDefeatUtility.CheckDefeated: PRE: Cities.SettlementDefeatUtility_CheckDefeated.Prefix
+SettlementDefeatUtility.IsDefeated: post: AchievementsExpanded.AchievementHarmony.SettlementDefeatedEvent, VFEI.HarmonyPatches.Defeated_Postfix, VanillaStorytellersExpanded.Patch_IsDefeated.Postfix, VFEM.HarmonyPatches.SettlementDefeatedUtility_Patch.Postfix, BattleQuests.IsDefeated_Patch.Postfix
+SettlementUtility.AffectRelationsOnAttacked_NewTmp: PRE: VFEMech.Patch_AffectRelationsOnAttacked_NewTmp.Prefix, MoreFactionInteraction.Patch_AffectRelationsOnAttacked_NewTmp.Prefix
+SettlementUtility.Attack: PRE: Cities.SettlementUtility_Attack.Prefix
+Settlement_TraderTracker.GiveSoldThingToPlayer: TRANS: SRTS.StartUp.GiveSoldThingsToSRTSTranspiler
+Settlement_TraderTracker.get_TraderKind: PRE: Cities.Settlement_TraderTracker_TraderKind.Prefix
+ShieldBelt.get_EnergyGainPerTick: post: CONN.ShieldBelt_EnergyGainPerTick.Postfix
+ShieldBelt.get_EnergyMax: post: CONN.ShieldBelt_EnergyMax.Postfix
+SiegeBlueprintPlacer.PlaceArtilleryBlueprints: post: VFESecurity.Patch_PlaceArtilleryBlueprints.Postfix
+Site.ShouldRemoveMapNow: post: VFEM.HarmonyPatches.ShouldRemoveMapNow_Patch.Postfix
+SkillRecord.Interval: PRE: VanillaTraitsExpanded.Interval_Patch.Prefix
+SkillRecord.Learn: PRE: VanillaSocialInteractionsExpanded.Learn_Patch.Prefix post: VanillaSocialInteractionsExpanded.Learn_Patch.Postfix TRANS: AchievementsExpanded.AchievementHarmony.LevelUpMoteHook
+Skyfaller.Tick: PRE: VFESecurity.Patch_Skyfaller+Patch_Tick.Prefix
+SnowGrid.CanHaveSnow: TRANS: DoorsExpanded.HarmonyPatches.InvisDoorCanHaveSnowTranspiler
+StatExtension.GetStatValue: post: VanillaSocialInteractionsExpanded.GetStatValue_Patch.Postfix
+SteadyEnvironmentEffects.TryDoDeteriorate: PRE: MechanoidAddon.TryDoDeteriorate_Patch.Prefix
+StoryState.Notify_IncidentFired: post: MoreFactionInteraction.HarmonyPatches.IncidentFired_TradeCounter_Postfix
+StoryWatcher_PopAdaptation.Notify_PawnEvent: post: AchievementsExpanded.AchievementHarmony.PawnJoinedFaction, AchievementsExpanded.AchievementHarmony.PawnJoinedFaction
+Storyteller.TryFire: PRE: VanillaStorytellersExpanded.Patch_MakeIncidentsForInterval.Prefix
+StorytellerComp.IncidentChanceFinal: post: VanillaStorytellersExpanded.Patch_IncidentChanceFinal.Postfix
+SymbolResolver_RandomMechanoidGroup.<>c.<Resolve>b__1_1: post: VFEM.HarmonyPatches.MechSpawn_Patch.Postfix
+Targeter.ProcessInputEvents: post: SRTS.StartUp.ProcessBombingInputEvents
+Targeter.TargeterOnGUI: post: SRTS.StartUp.DrawBombingTargeter
+Targeter.TargeterUpdate: post: SRTS.StartUp.BombTargeterUpdate
+TendUtility.DoTend: PRE: VanillaSocialInteractionsExpanded.DoTend_Patch.Prefix post: VanillaSocialInteractionsExpanded.DoTend_Patch.Postfix
+TerrainGrid.CanRemoveTopLayerAt: post: VFESecurity.Patch_TerrainGrid+CanRemoveTopLayerAt.Postfix
+TerrainGrid.RemoveTopLayer: PRE: Replace_Stuff.PlaceBridges.DestroyedTerrain.Prefix, VFEMech.TerrainPatches+RemoveTopLayer_Patch.Prefix
+TerrainGrid.SetTerrain: post: VFEMech.TerrainPatches+Patch_SetTerrain.Postfix
+Thing.BlocksPawn: post: VFESecurity.Patch_Thing+BlocksPawn.Postfix
+Thing.DeSpawn: TRANS: VFESecurity.Patch_Thing+DeSpawn.Transpiler
+Thing.Ingested: post: VanillaSocialInteractionsExpanded.Thing_Ingested.Postfix
+Thing.Kill: PRE: AchievementsExpanded.AchievementHarmony.KillThing
+Thing.Notify_ColorChanged: post: Replace_Stuff.Virtualize_Notify_ColorChanged.Postfix
+Thing.PostMapInit: PRE: VFEMech.ThingPostInit_Patch.Prefix
+Thing.SpawnSetup: TRANS: VFEMech.ThingSpawnSetup_Patch.Transpiler, VFESecurity.Patch_Thing+SpawnSetup.Transpiler
+Thing.SplitOff: post: Cities.Thing_SplitOff.Postfix
+Thing.TakeDamage: post: VanillaTraitsExpanded.TakeDamage_Patch.Postfix
+Thing.get_DefaultGraphic: post: CompOversizedWeapon.HarmonyCompOversizedWeapon.get_DefaultGraphic_PostFix TRANS: Replace_Stuff.OverMineable.ShowBluePrintOverFogDynamic.Transpiler
+Thing.get_Graphic: post: [0]VFESecurity.Patch_Thing+get_Graphic.Postfix
+Thing.set_Rotation: TRANS: GiddyUpCore.Harmony.Pawn_RotationTracker_UpdateRotation.Transpiler
+ThingDef.SpecialDisplayStats: post: VFECore.Patch_ThingDef+SetFaction.Postfix, AnimalBehaviours.Patch_ThingDef+VanillaExpandedFramework_ThingDef_SpecialDisplayStats_Patch.Postfix, NocturnalAnimals.Patch_ThingDef+Patch_SpecialDisplayStats.Postfix
+ThingDef.get_IsDoor: post: DoorsExpanded.HarmonyPatches.DoorExpandedThingDefIsDoorPostfix
+ThingDef.get_IsShell: post: VFESecurity.Patch_IsShell.Postfix
+ThingDefGenerator_Buildings.NewBlueprintDef_Thing: post: DoorsExpanded.HarmonyPatches.InvisDoorNewBlueprintDefThingPostfix
+ThingDefGenerator_Buildings.NewFrameDef_Thing: post: Replace_Stuff.OverMineable.FramesArentEdifices.Postfix
+ThingFilter.SetFromPreset: post: RoadsOfTheRim.Patch_ThingFilter_SetFromPreset.Postfix
+ThingOwner`1.TryAdd: PRE: Cities.ThingOwner_TryAdd.Prefix
+ThingSelectionUtility.SelectableByMapClick: PRE: Replace_Stuff.OverMineable.FoggedSelectable.Prefix post: Camouflage.VAE_ThingSelectionUtility_Patch.GhillieException
+ThingSetMaker.Generate: post: MoreFactionInteraction.HarmonyPatches.TraderStocker_OverStockerPostFix
+ThingUtility.CheckAutoRebuildOnDestroyed: TRANS: Replace_Stuff.DestroyedRestore.SaveDestroyedBuildings.Transpiler
+Thought.MoodOffset: post: VanillaTraitsExpanded.MoodOffset_Patch.Postfix
+ThoughtUtility.GiveThoughtsForPawnOrganHarvested: PRE: VanillaSocialInteractionsExpanded.GiveThoughtsForPawnOrganHarvested_Patch.Prefix
+ThoughtWorker_Dark.CurrentStateInternal: post: VFEI.HarmonyPatches.ThoughtWorker_Dark_PostFix, CONN.ThoughtWorker_Dark_CurrentStateInternal.Postfix
+ThoughtWorker_PsychicDrone.CurrentStateInternal: post: VFESecurity.Patch_ThoughtWorker_PsychicDrone+CurrentStateInternal.Postfix
+ThoughtWorker_PsychicEmanatorSoothe.CurrentStateInternal: TRANS: MoreFactionInteraction.HarmonyPatches.PsychicEmanatorSoothe_Transpiler
+Thought_Memory.get_ShouldDiscard: PRE: VanillaTraitsExpanded.ShouldDiscard_Patch.Prefix
+TickManager.DoSingleTick: post: AchievementsExpanded.AchievementHarmony.SingleLongTickTracker
+Tile.get_Roads: post: RoadsOfTheRim.Patch_Tile_Roads.Postfix
+TileFinder.RandomSettlementTileFor: PRE: VFECore.Patch_RandomSettlementTileFor+RandomSettlementTileFor_Patch.Prefix
+ToilEffects.WithEffect: post: VanillaSocialInteractionsExpanded.WithEffect_Patch.Postfix
+ToilEffects.WithProgressBar: post: VanillaTraitsExpanded.WithProgressBar_Patch.Postfix, VanillaSocialInteractionsExpanded.WithProgressBar_Patch.Postfix
+Toils_Combat.<>c__DisplayClass1_0.<GotoCastPosition>b__0: TRANS: VFESecurity.Patch_Toils_Combat+manual_GoToCastPosition_initAction.Transpiler
+Toils_Haul.<>c.<JumpToCarryToNextContainerIfPossible>b__9_2: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+Toils_Haul.<>c__DisplayClass9_0.<JumpToCarryToNextContainerIfPossible>b__0: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+Toils_Haul.<>c__DisplayClass9_1.<JumpToCarryToNextContainerIfPossible>b__4: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+Toils_Haul.<>c__DisplayClass9_2.<JumpToCarryToNextContainerIfPossible>b__1: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+Toils_Haul.<>c__DisplayClass9_2.<JumpToCarryToNextContainerIfPossible>b__3: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+Toils_JobTransforms.ExtractNextTargetFromQueue: post: SmartMedicine.ExtractQueueDrop.Postfix
+Toils_Tend.<>c__DisplayClass2_0.<PickupMedicine>b__0: TRANS: SmartMedicine.PickupMedicine_Patch.Transpiler
+Tornado.CellImmuneToDamage: post: VFESecurity.Patch_Tornado+CellImmuneToDamage.Postfix
+TouchPathEndModeUtility.IsCornerTouchAllowed: PRE: Replace_Stuff.OverMineable.CornerBuildable.Prefix
+TouchPathEndModeUtility.MakesOccupiedCellsAlwaysReachableDiagonally: PRE: Replace_Stuff.OverMineable.CornerMineableOkay.Prefix
+TradeDeal.InSellablePosition: PRE: Cities.TradeDeal_InSellablePosition.Prefix
+TradeDeal.TryExecute: post: AchievementsExpanded.AchievementHarmony.TradeDealComplete TRANS: VanillaSocialInteractionsExpanded.TryExecute_Patch.Transpiler
+Tradeable.InitPriceDataIfNeeded: TRANS: MoreFactionInteraction.HarmonyPatches.ErrorSuppressionSssh
+TraderCaravanUtility.GetTraderCaravanRole: post: VFECore.Patch_TraderCaravanUtility+GetTraderCaravanRole.Postfix, GiddyUpCaravan.Harmony.TraderCaravanUtility_GetTraderCaravanRole.Postfix
+TraderKindDef.PriceTypeFor: post: MoreFactionInteraction.HarmonyPatches.PriceTypeSetter_PostFix
+TraitSet.GainTrait: post: VanillaTraitsExpanded.GainTrait_Patch.Postfix
+TransferableOneWayWidget.DoRow: TRANS: GiddyUpCaravan.Harmony.TransferableOneWayWidget_DoRow.Transpiler
+TransferableOneWayWidget.FillMainRect: post: GiddyUpCaravan.Harmony.TransferableOneWayWidget_FillMainRect.Postfix
+TransferableUtility.TransferAsOne: post: GiddyUpCaravan.Harmony.TransferableUtility_TransferAsOne.Postfix
+Transition.Execute: PRE: VanillaStorytellersExpanded.Patch_Execute.Prefix, VanillaSocialInteractionsExpanded.Patch_Execute.Prefix
+TransportPodsArrivalActionUtility.DropTravelingTransportPods: PRE: SRTS.StartUp.DropSRTSExactSpot
+TransportPodsArrivalAction_LandInSpecificCell.Arrived: PRE: SRTS.HarmonyTest_AJ.Prefix
+TransportPodsArrivalAction_VisitSite.Arrived: PRE: VFEMech.Patch_Arrived.Prefix, MoreFactionInteraction.Patch_Arrived.Prefix
+TransporterUtility.AllSendableItems: post: Cities.TransporterUtility_AllSendableItems.Postfix
+TrashUtility.TrashJob: TRANS: DoorsExpanded.HarmonyPatches.DoorExpandedTrashJobTranspiler
+TravelingTransportPods.get_TraveledPctStepPerTick: PRE: SRTS.StartUp.CustomTravelSpeedSRTS
+TurretTop.DrawTurret: PRE: VanillaWeaponsExpandedLaser.HarmonyPatches.CYA_TuretTop_DrawTurret_LaserTurret_Patch.Prefix, [0]VFESecurity.Patch_TurretTop+DrawTurret.Prefix
+UIRoot.UIRootOnGUI: post: HugsLib.Patches.UIRoot_OnGUI_Patch.OnGUIHook
+Verb.Available: post: VFECore.Patch_Verb+Available.Postfix, VFESecurity.Patch_Verb+Available.Postfix
+Verb.DrawHighlightFieldRadiusAroundTarget: PRE: MortarAccuracy.Patches+Harmony_Verb_DrawHighlightFieldRadiusAroundTarget.Prefix
+Verb.TryFindShootLineFromTo: TRANS: VFESecurity.Patch_Verb+TryFindShootLineFromTo.Transpiler
+Verb.TryStartCastOn: PRE: [100]VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Verb_Shoot_TryStartCastOn_RapidFire_Patch.TryStartCastOn_RapidFire_Prefix post: [401]VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Verb_Shoot_TryStartCastOn_RapidFire_Patch.TryStartCastOn_RapidFire_Postfix
+VerbProperties.AdjustedAccuracy: post: GiddyUpCore.Harmony.VerbProperties_AdjustedAccuracy.Postfix
+VerbProperties.DrawRadiusRing: TRANS: VFESecurity.Patch_VerbProperties+DrawRadiusRing.Transpiler
+Verb_LaunchProjectile.TryCastShot: PRE: MortarAccuracy.Patches+Harmony_Verb_LaunchProjectile_TryCastShot.Prefix
+VersionControl.DrawInfoInCorner: post: HarmonyMod.VersionControl_DrawInfoInCorner_Patch.Postfix
+WanderUtility.GetColonyWanderRoot: post: VFE.Mechanoids.HarmonyPatches.GetColonyWanderRoot_Patch.Postfix
+WildAnimalSpawner.<SpawnRandomWildAnimalAt>b__13_0: TRANS: VAEShrubland.Patch_WildAnimalSpawner+manual_SpawnWildAnimalAt_predicate.Transpiler
+Window.Notify_ResolutionChanged: post: TacticalGroups.HarmonyPatches.IsPlayingDirty_Postfix
+WorkGiver_ConstructDeliverResources.IsNewValidNearbyNeeder: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+WorkGiver_ConstructFinishFrames.JobOnThing: post: SmarterConstruction.Patches.WorkGiver_ConstructFinishFrames_JobOnThing.Postfix
+WorkGiver_DoBill.AddEveryMedicineToRelevantThings: post: SmartMedicine.InventorySurgery.Postfix
+WorkGiver_DoBill.GetMedicalCareCategory: post: SmartMedicine.SurgeryUnlimited.SurgeryUnlimitedBillCategory.Postfix
+WorkGiver_DoBill.TryFindBestBillIngredients: PRE: SmartMedicine.HackityGetBill.Prefix
+WorkGiver_GrowerSow.JobOnCell: TRANS: VanillaSocialInteractionsExpanded.WorkGiver_Patches.JobOnCellTranspiler
+WorkGiver_Researcher.ShouldSkip: post: VanillaTraitsExpanded.ShouldSkip_Patch.Postfix
+WorkGiver_Scanner.GetPriority: post: SmarterConstruction.Patches.Patch_WorkGiver_Scanner_GetPriority.PriorityPostfix
+WorkGiver_Tend.GoodLayingStatusForTend: post: SmartMedicine.GoodLayingStatusForTend_Patch.Postfix
+WorkGiver_Tend.HasJobOnThing: TRANS: SmartMedicine.NeedTendBeforeStatusForTend.Transpiler
+WorkGiver_Tend.JobOnThing: PRE: SmartMedicine.JobOnThing_Patch.Prefix
+WorkGiver_Train.JobOnThing: PRE: GiddyUpCore.Harmony.WorkGiver_Train_JobOnThing.Prefix
+WorldCameraDriver.JumpTo: PRE: TacticalGroups.HarmonyPatches.EntriesDirty
+WorldDynamicDrawManager.DrawDynamicWorldObjects: TRANS: SRTS.StartUp.DrawDynamicSRTSObjectsTranspiler
+WorldGrid.GetRoadMovementDifficultyMultiplier: post: RoadsOfTheRim.Patch_WorldGrid_GetRoadMovementDifficultyMultiplier.Postifx
+WorldObject.Destroy: PRE: TacticalGroups.HarmonyPatches.Caravan_Destroy_Prefix
+WorldObjectsHolder.Remove: post: VFESecurity.Patch_WorldObjectsHolder+Remove.Postfix
+WorldPathGrid.CalculatedMovementDifficultyAt: post: RoadsOfTheRim.Patch_WorldPathGrid_CalculatedMovementDifficultyAt.PostFix
+WorldReachabilityUtility.CanReach: post: MoreFactionInteraction.HarmonyPatches.WorldReachUtility_PostFix
+WorldSelector.HandleWorldClicks: post: SRTS.StartUp.TravelingSRTSChangeDirection
+WorldTargeter.StopTargeting: PRE: RoadsOfTheRim.Patch_WorldTargeter_StopTargeting.Prefix
+Harmony versions present: 2.0.4.0: vanillaexpanded.achievements, OskarPotocki.HeavyWeapons, OskarPotocki.VFECore, OskarPotocki.VanillaTraitsExpanded, Troy_Alias.TacticalGroups, OskarPotocki.VanillaSocialInteractionsExpanded, OskarPotocki.VanillaStorytellersExpanded, OskarPotocki.VanillaFactionsExpandedMechanoids, BattleQuests.HarmonyInit, vanillaexpanded.achievements_preloaded, Kikohi.KCSG, OskarPotocki.VanillaFurnitureExpanded.Security, jecstools.jecrell.comps.oversized, mehni.rimworld.MFI.main, Kikohi.VanillaEventExpanded, OskarPotocki.VFEMechanoidsAddons, VanillaCookingExpanded, rimworld.hobtook.mortaraccuracy; 2.0.2.0: net.pardeike.rimworld.lib.harmony, legodude17.mvcf, uuugggg.rimworld.SmartMedicine.main, rimworld.jecrell.doorsexpanded, CM_Go_To_Sleep, CM_Chill_Out, Haecriver.InjuredCarry, Linkolas.Stabilize, Uuugggg.rimworld.Replace_Stuff.main, VFE.Power, Loconeko.Rimworld.RoadsOfTheRim, EdB.PrepareCarefully, KongMD.QEE, SmarterConstruction, Vanilla.BookExpanded, asieruso23.srts.planes, PerfectPathingPatch; 2.0.1.0: kikohi.vfe.insectoid, com.vanillaplantsexpanded, Syrchalis.Rimworld.Doormats; 2.0.0.9: roolo.giddyupcore; 2.0.0.8: SRTSExpanded.smashphil.neceros, kikohi.conn, UnlimitedHugs.HugsLib, rimworld.droppodsinprogress.smashphil, Cabbage.RimCities, com.tammybee.whereismyweapon, OskarPotocki.VanillaTexturesExpanded; 2.0.0.7: com.ogliss.rimworld.mod.VanillaWeaponsExpandedLaser, OskarPotocki.VanillaHairExpanded, roolo.AlmostThere, roolo.SearchAndDestroy; 2.0.0.6: roolo.giddyupbattlemounts, roolo.giddyuprideandroll, roolo.giddyupcaravan; 2.0.0.3: com.ogliss.rimworld.mod.VanillaArmorsExpanded; 2.0.0.2: XeoNovaDan.NocturnalAnimals, OskarPotocki.VAEShrubland
+
+Platform information: 
+CPU: Intel(R) Core(TM) i7-7820HK CPU @ 2.90GHz
+OS: Windows 10  (10.0.0) 64bit
+Memory: 32640 MB
+
+Log file contents:
+Mono path[0] = '[Rimworld_dir]/RimWorldWin64_Data/Managed'
+Mono config path = '[Rimworld_dir]/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path [Rimworld_dir]/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1ba1)
+    Vendor:   
+    VRAM:     8081 MB
+    Driver:   27.21.14.6589
+Begin MonoManager ReloadAssembly
+RimWorld 1.2.2900 rev837
+[RuntimeGC] Mod settings loaded.
+[VanillaAchievementsExpanded] Removing duplicate Def Types.
+VFEI - Harmony patches applied
+[HugsLib] version 8.0.1
+DependencyChecker!
+Could not resolve cross-reference: No Verse.SoundDef named I3MA_I3MA_GP_BombMk1_Explosion found to give to RimWorld.CompProperties_Explosive RimWorld.CompProperties_Explosive (using undefined sound instead)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Key binding conflict: Dev_ChangeSelectedDebugAction and MainTab_Architect are both bound to Tab.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+d3d11: failed to create 2D texture id=14825 width=25 height=31 mips=6 dxgifmt=28 [D3D error was 80070057]
+
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 496)
+
+d3d11: failed to create 2D texture shader resource view id=14825 [D3D error was 80070057]
+
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 460)
+
+d3d11: failed to create 2D texture id=14873 width=62 height=50 mips=7 dxgifmt=28 [D3D error was 80070057]
+
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 496)
+
+d3d11: failed to create 2D texture shader resource view id=14873 [D3D error was 80070057]
+
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 460)
+
+Translation data for language English has 2 errors. Generate translation report for more info.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[rimworld.jecrell.doorsexpanded] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.GhostDrawer.DrawGhostThing
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Cabbage.RimCities] Patches on methods annotated as Obsolete were detected by HugsLib: RimWorld.TransporterUtility.AllSendableItems
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[ModMetaDataCleaner] Removed 54 Metadata and cleaned 87 PreviewImage.
+Removed: PsiTech, [RH2] Rimdeed® - Pawn Recruitment, Achtung!, JecsTools, Backup Generators, [CP] Get to the Chopper!, Humanoid Alien Races 2.0, Vanilla Hair Expanded - Beards, Medical Tab, Mod Manager, Multiplayer, [SYR] Set Up Camp, The Birds and the Bees, Death Rattle Unofficial, Clonebay, RimHUD, Crystal race, Lanius race, Mantis race, Rockmen race, Zoltan race, Engi race, Slug race, High quality textures, Dubs Mint Minimap, Rim War, [KV] RimFridge, Antimatter Annihilation, MedPod, Android tiers, [NL] Facial Animation - WIP, Expanded Prosthetics and Organ Engineering, Androids, In-game wiki, Roo's Royalty Hairstyles, Autocleaner, Lighter Than Fast, Beam me up Scotty, Mind control, FTL Scenario - Kestrel C, FTL Scenario - Zoltan cruiser A, Medical bay, Clone Bay, Advanced Power Plus, Smart Colonist Bar, Color Coded Mood Bar, Door Mat, While You're Up [1.0], Won hair_women , Death Rattle, More Vanilla Turrets, Rimsenal - Enhanced Vanilla Pack, gloomy_hair, Glitter Tech
+Cleaned: Vanilla Weapons Expanded - Laser, Vanilla Apparel Expanded, Questionable Ethics Enhanced, Replace Stuff, Vanilla Expanded Framework, Vanilla Furniture Expanded - Power, Joint Battles, Vanilla Factions Expanded - Mechanoids, Vanilla Weapons Expanded - Heavy Weapons, Vanilla Traits Expanded, Vanilla Events Expanded, Smart Medicine, RimCities - Citadel Update, Devilstrand Hydroponics, Stabilize, Mortar Accuracy, Vanilla Social Interactions Expanded, More Faction Interaction (Continued), Giddy-up! Core, Giddy-up! Caravan, Almost There!, Search and Destroy, Giddy-up! Ride and Roll, Giddy-up! Battle Mounts, Roads of the Rim (Continued), VFE - Mechanoids : Tab, VFE - Mechanoids : Prison control droid, VFE - Mechanoids : Drones, VFME - Caravan Packs!, [LTO] Colony Groups, Perfect Pathfinding, I3's Military Aircrafts (I3MA), RimHeli, [SRTS Expanded] Planes and Bombs, Loading In Progress, Cybernetic Organism and Neural Network, Chill the F*** Out, Go the F*** to Sleep, VFE - Mechanoids : Unoffical Add-On, Injured Carry, Vanilla Animals Expanded — Tropical Swamp, Vanilla Animals Expanded — Tundra, Vanilla Cooking Expanded, Vanilla Cooking Expanded - Stews, Vanilla Plants Expanded, Vanilla Furniture Expanded - Props and Decor, Vanilla Factions Expanded - Insectoids, Vanilla Books Expanded, Vanilla Weapons Expanded - Grenades, Vanilla Weapons Expanded - Coilguns, Vanilla Brewing Expanded - Coffees and Teas, Vanilla Achievements Expanded, Vanilla Plants Expanded - Succulents, Vanilla Brewing Expanded, Vanilla Animals Expanded — Boreal Forest, Vanilla Animals Expanded — Tropical Rainforest, Vanilla Animals Expanded — Extreme Desert, Vanilla Animals Expanded — Desert, Vanilla Animals Expanded — Cats and Dogs, Vanilla Animals Expanded — Arid Shrubland, Vanilla Textures Expanded, Vanilla Furniture Expanded, EdB Prepare Carefully, Where is my weapon?, Smarter Construction, Dire Raids, RuntimeGC, HugsLib, Doors Expanded (Dev), Vanilla Hair Expanded, Vanilla Armour Expanded, Vanilla Furniture Expanded - Farming, Vanilla Furniture Expanded - Security, Vanilla Weapons Expanded, Vanilla Weapons Expanded - Quickdraw, Vanilla Furniture Expanded - Art, Vanilla Furniture Expanded - Production, Vanilla Furniture Expanded - Spacer Module, Wall Light, SRTS Expanded, MendAndRecycle, [SYR] Doormats, Harmony, Utility Columns, Vanilla Furniture Expanded - Medical Module, Royalty, Core
+[RuntimeGC] Detour completed: MuteGC
+[HugsLib] initializing DireRaids, Linkolas.Stabilize, GiddyUpCore, BattleMounts, GiddyUpRideAndRoll, SearchAndDestroy, AlmostThere, GiddyUpCaravan
+[DireRaids] Settings loaded:
+	pointMultiplier: 3
+	baseChange: 1.8
+	minRefireDays: 60
+	minThreatPoints: 2000
+	minPopulation: 1
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 267 unused Assets to reduce memory usage. Loaded Objects now: 23073.
+Total: 271.279500 ms (FindLiveObjects: 4.552300 ms CreateObjectMapping: 2.420400 ms MarkObjects: 264.013300 ms  DeleteObjects: 0.293200 ms)
+
+Loading game from file sleepy with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - OskarPotocki.VFE.Mechanoid
+  - smashphil.neceros.srtsexpanded
+  - user19990313.RuntimeGC
+  - jecrell.doorsexpanded
+  - Haecriver.InjuredCarry
+  - CaptainMuscles.GoToSleep
+  - CaptainMuscles.ChillOut
+  - kongmd.qee
+  - syrchalis.doormats
+  - Cabbage.RimCities
+  - dhultgren.smarterconstruction
+  - Uuugggg.SmartMedicine
+  - tammybee.whereismyweapon
+  - EdB.PrepareCarefully
+  - isorex.mechanoidsaddon
+  - VanillaExpanded.VAETS
+  - VanillaExpanded.VAET
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VAEAS
+  - VanillaExpanded.VAECD
+  - VanillaExpanded.VAED
+  - VanillaExpanded.VAEED
+  - VanillaExpanded.VAEBF
+  - VanillaExpanded.VAETR
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VPlantsESucculents
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VBrewECandT
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEHW
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VBooksE
+  - OskarPotocki.VFE.Insectoid
+  - VanillaExpanded.VFEPropsandDecor
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFESecurity
+  - kikohi.cybernetic
+  - VanillaExpanded.VWEQ
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFEPower
+  - Uuugggg.ReplaceStuff
+  - notfood.MendAndRecycle
+  - VanillaExpanded.VWEL
+  - nephlite.orbitaltradecolumn
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VFEMedical
+  - UnlimitedHugs.HugsLib
+  - pyrce.dire.raids
+  - Murmur.WallLight
+  - SteelChicken.DevilstrandHydroponics
+  - Linkolas.Stabilize
+  - Asieruso23.SRTS.Planes
+  - Fuji.SRTS.RimHeli
+  - Inoshishi3.MilitaryAircrafts
+  - jp.perfectpathing
+  - DerekBickley.LTOColonyGroupsFinal
+  - VFME.CaravanPacks
+  - seos.vfe.mechanoids.drones
+  - nowano.vfem.prisonControlDroid
+  - seos.vfe.mechanoids.tab
+  - Mlie.RoadsOfTheRim
+  - roolo.giddyupcore
+  - roolo.giddyupbattlemounts
+  - roolo.giddyuprideandroll
+  - roolo.SearchAndDestroy
+  - roolo.AlmostThere
+  - roolo.giddyupcaravan
+  - SalmonToastie.JointBattles
+  - hobtook.mortaraccuracy
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - Mlie.MoreFactionInteraction
+  - smashphil.loadinginprogress
+Vanilla Expanded - Settings loaded
+Could not resolve reference to object with loadID Job_8705382 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8707840 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8703277 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8703891 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8739877 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8715245 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8723721 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8744532 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8709584 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Not enough squares to get to radius 504. Max is 282.8427
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Not enough squares to get to radius 504. Max is 282.8427
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Spawned VFEM_ProcessedMeat2430307 with stackCount 414 but stackLimit is 75. Truncating.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Spawned Cloth2452399 with stackCount 80 but stackLimit is 75. Truncating.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cleaned up 160 deprecated records from Giddy-up!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 33161.
+Total: 437.414000 ms (FindLiveObjects: 4.211000 ms CreateObjectMapping: 3.162500 ms MarkObjects: 429.974500 ms  DeleteObjects: 0.065400 ms)
+
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+ReequipAndRetake:bull 5
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Tried to register trasmitter VPE_NuclearGenerator1865243 at (222, 0, 61), but there is already a power net here. There can't be two transmitters on the same cell.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Is drought going on: False. Affected plant(s): 0.
+ReequipAndRetake:Thug
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Look rotation viewing vector is zero
+Is drought going on: False. Affected plant(s): 0.
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Is drought going on: False. Affected plant(s): 0.
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Is drought going on: False. Affected plant(s): 0.
+Look rotation viewing vector is zero
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 19566 unused Assets to reduce memory usage. Loaded Objects now: 25213.
+Total: 317.481900 ms (FindLiveObjects: 3.557100 ms CreateObjectMapping: 4.613200 ms MarkObjects: 280.934800 ms  DeleteObjects: 28.376500 ms)
+
+Loading game from file shoot with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - OskarPotocki.VFE.Mechanoid
+  - smashphil.neceros.srtsexpanded
+  - user19990313.RuntimeGC
+  - jecrell.doorsexpanded
+  - Haecriver.InjuredCarry
+  - CaptainMuscles.GoToSleep
+  - CaptainMuscles.ChillOut
+  - kongmd.qee
+  - syrchalis.doormats
+  - Cabbage.RimCities
+  - dhultgren.smarterconstruction
+  - Uuugggg.SmartMedicine
+  - tammybee.whereismyweapon
+  - EdB.PrepareCarefully
+  - isorex.mechanoidsaddon
+  - VanillaExpanded.VAETS
+  - VanillaExpanded.VAET
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VAEAS
+  - VanillaExpanded.VAECD
+  - VanillaExpanded.VAED
+  - VanillaExpanded.VAEED
+  - VanillaExpanded.VAEBF
+  - VanillaExpanded.VAETR
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VPlantsESucculents
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VBrewECandT
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEHW
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VBooksE
+  - OskarPotocki.VFE.Insectoid
+  - VanillaExpanded.VFEPropsandDecor
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFESecurity
+  - kikohi.cybernetic
+  - VanillaExpanded.VWEQ
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFEPower
+  - Uuugggg.ReplaceStuff
+  - notfood.MendAndRecycle
+  - VanillaExpanded.VWEL
+  - nephlite.orbitaltradecolumn
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VFEMedical
+  - UnlimitedHugs.HugsLib
+  - pyrce.dire.raids
+  - Murmur.WallLight
+  - SteelChicken.DevilstrandHydroponics
+  - Linkolas.Stabilize
+  - Asieruso23.SRTS.Planes
+  - Fuji.SRTS.RimHeli
+  - Inoshishi3.MilitaryAircrafts
+  - jp.perfectpathing
+  - DerekBickley.LTOColonyGroupsFinal
+  - VFME.CaravanPacks
+  - seos.vfe.mechanoids.drones
+  - nowano.vfem.prisonControlDroid
+  - seos.vfe.mechanoids.tab
+  - Mlie.RoadsOfTheRim
+  - roolo.giddyupcore
+  - roolo.giddyupbattlemounts
+  - roolo.giddyuprideandroll
+  - roolo.SearchAndDestroy
+  - roolo.AlmostThere
+  - roolo.giddyupcaravan
+  - SalmonToastie.JointBattles
+  - hobtook.mortaraccuracy
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - Mlie.MoreFactionInteraction
+  - smashphil.loadinginprogress
+Vanilla Expanded - Settings loaded
+Could not resolve reference to object with loadID Job_8759640 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8759074 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8755366 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8753623 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8755977 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8759014 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8748498 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8754700 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8756842 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Job_8756159 of type Verse.AI.Job. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=GiddyUpCore.Storage.ExtendedPawnData curPathRelToParent=
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Not enough squares to get to radius 504. Max is 282.8427
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Not enough squares to get to radius 504. Max is 282.8427
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cleaned up 164 deprecated records from Giddy-up!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 34655.
+Total: 394.067400 ms (FindLiveObjects: 1.524400 ms CreateObjectMapping: 3.397600 ms MarkObjects: 389.102100 ms  DeleteObjects: 0.042900 ms)
+
+Is drought going on: False. Affected plant(s): 0.
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 13774 unused Assets to reduce memory usage. Loaded Objects now: 25301.
+Total: 344.494400 ms (FindLiveObjects: 2.324400 ms CreateObjectMapping: 3.572700 ms MarkObjects: 321.255600 ms  DeleteObjects: 17.341500 ms)
+
+Loading game from file better with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - OskarPotocki.VFE.Mechanoid
+  - smashphil.neceros.srtsexpanded
+  - user19990313.RuntimeGC
+  - jecrell.doorsexpanded
+  - Haecriver.InjuredCarry
+  - CaptainMuscles.GoToSleep
+  - CaptainMuscles.ChillOut
+  - kongmd.qee
+  - syrchalis.doormats
+  - Cabbage.RimCities
+  - dhultgren.smarterconstruction
+  - Uuugggg.SmartMedicine
+  - tammybee.whereismyweapon
+  - EdB.PrepareCarefully
+  - isorex.mechanoidsaddon
+  - VanillaExpanded.VAETS
+  - VanillaExpanded.VAET
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VAEAS
+  - VanillaExpanded.VAECD
+  - VanillaExpanded.VAED
+  - VanillaExpanded.VAEED
+  - VanillaExpanded.VAEBF
+  - VanillaExpanded.VAETR
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VPlantsESucculents
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VBrewECandT
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEHW
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VBooksE
+  - OskarPotocki.VFE.Insectoid
+  - VanillaExpanded.VFEPropsandDecor
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFESecurity
+  - kikohi.cybernetic
+  - VanillaExpanded.VWEQ
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFEPower
+  - Uuugggg.ReplaceStuff
+  - notfood.MendAndRecycle
+  - VanillaExpanded.VWEL
+  - nephlite.orbitaltradecolumn
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VFEMedical
+  - UnlimitedHugs.HugsLib
+  - pyrce.dire.raids
+  - Murmur.WallLight
+  - SteelChicken.DevilstrandHydroponics
+  - Linkolas.Stabilize
+  - Asieruso23.SRTS.Planes
+  - Fuji.SRTS.RimHeli
+  - Inoshishi3.MilitaryAircrafts
+  - jp.perfectpathing
+  - DerekBickley.LTOColonyGroupsFinal
+  - VFME.CaravanPacks
+  - seos.vfe.mechanoids.drones
+  - nowano.vfem.prisonControlDroid
+  - seos.vfe.mechanoids.tab
+  - Mlie.RoadsOfTheRim
+  - roolo.giddyupcore
+  - roolo.giddyupbattlemounts
+  - roolo.giddyuprideandroll
+  - roolo.SearchAndDestroy
+  - roolo.AlmostThere
+  - roolo.giddyupcaravan
+  - SalmonToastie.JointBattles
+  - hobtook.mortaraccuracy
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - Mlie.MoreFactionInteraction
+  - smashphil.loadinginprogress
+Vanilla Expanded - Settings loaded
+Not enough squares to get to radius 504. Max is 282.8427
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Not enough squares to get to radius 504. Max is 282.8427
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cleaned up 151 deprecated records from Giddy-up!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 34750.
+Total: 443.685800 ms (FindLiveObjects: 2.396200 ms CreateObjectMapping: 4.087000 ms MarkObjects: 437.160300 ms  DeleteObjects: 0.042100 ms)
+
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Is drought going on: False. Affected plant(s): 0.
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+ReequipAndRetake:cow 8
+Look rotation viewing vector is zero
+Is drought going on: False. Affected plant(s): 0.
+Is drought going on: False. Affected plant(s): 0.
+ReequipAndRetake:megaspider
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 13708 unused Assets to reduce memory usage. Loaded Objects now: 25375.
+Total: 622.476000 ms (FindLiveObjects: 6.657000 ms CreateObjectMapping: 5.498300 ms MarkObjects: 569.944700 ms  DeleteObjects: 40.375000 ms)
+
+Loading game from file load with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - OskarPotocki.VFE.Mechanoid
+  - smashphil.neceros.srtsexpanded
+  - user19990313.RuntimeGC
+  - jecrell.doorsexpanded
+  - Haecriver.InjuredCarry
+  - CaptainMuscles.GoToSleep
+  - CaptainMuscles.ChillOut
+  - kongmd.qee
+  - syrchalis.doormats
+  - Cabbage.RimCities
+  - dhultgren.smarterconstruction
+  - Uuugggg.SmartMedicine
+  - tammybee.whereismyweapon
+  - EdB.PrepareCarefully
+  - isorex.mechanoidsaddon
+  - VanillaExpanded.VAETS
+  - VanillaExpanded.VAET
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VAEAS
+  - VanillaExpanded.VAECD
+  - VanillaExpanded.VAED
+  - VanillaExpanded.VAEED
+  - VanillaExpanded.VAEBF
+  - VanillaExpanded.VAETR
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VPlantsESucculents
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VBrewECandT
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VWEC
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEHW
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VBooksE
+  - OskarPotocki.VFE.Insectoid
+  - VanillaExpanded.VFEPropsandDecor
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFESecurity
+  - kikohi.cybernetic
+  - VanillaExpanded.VWEQ
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFEPower
+  - Uuugggg.ReplaceStuff
+  - notfood.MendAndRecycle
+  - VanillaExpanded.VWEL
+  - nephlite.orbitaltradecolumn
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VFEMedical
+  - UnlimitedHugs.HugsLib
+  - pyrce.dire.raids
+  - Murmur.WallLight
+  - SteelChicken.DevilstrandHydroponics
+  - Linkolas.Stabilize
+  - Asieruso23.SRTS.Planes
+  - Fuji.SRTS.RimHeli
+  - Inoshishi3.MilitaryAircrafts
+  - jp.perfectpathing
+  - DerekBickley.LTOColonyGroupsFinal
+  - VFME.CaravanPacks
+  - seos.vfe.mechanoids.drones
+  - nowano.vfem.prisonControlDroid
+  - seos.vfe.mechanoids.tab
+  - Mlie.RoadsOfTheRim
+  - roolo.giddyupcore
+  - roolo.giddyupbattlemounts
+  - roolo.giddyuprideandroll
+  - roolo.SearchAndDestroy
+  - roolo.AlmostThere
+  - roolo.giddyupcaravan
+  - SalmonToastie.JointBattles
+  - hobtook.mortaraccuracy
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - Mlie.MoreFactionInteraction
+  - smashphil.loadinginprogress
+Vanilla Expanded - Settings loaded
+Not enough squares to get to radius 504. Max is 282.8427
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Not enough squares to get to radius 504. Max is 282.8427
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cleaned up 155 deprecated records from Giddy-up!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 34877.
+Total: 774.421000 ms (FindLiveObjects: 2.477300 ms CreateObjectMapping: 4.775800 ms MarkObjects: 767.118000 ms  DeleteObjects: 0.049500 ms)
+
+Faction Ancients has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Ancients has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Laxkil Mechhive has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Sorne Geneline has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Butora has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction East Andor has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Troabrutran Alliance has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Kin League of Bosai has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Nation of Baseañoño has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Blade Group has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Imperium of Eternity has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Highpowered Safety Mechhive Alpha has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Emotionless Hive has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction Praise Be has null relation with Praise Be. Returning dummy relation.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 422 Unprocessable Entity
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
